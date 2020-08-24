@@ -21,6 +21,7 @@
   "homepage": "https://github.com/amrancz/notes#readme",
   "dependencies": {
     "gatsby": "^2.24.49",
+    "gatsby-plugin-mdx": "^1.2.35",
     "gatsby-theme-andy": "^0.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
