@@ -1,0 +1,28 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "My digital garden",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrancz/notes.git"
+  },
+  "author": "Adam Amran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrancz/notes/issues"
+  },
+  "homepage": "https://github.com/amrancz/notes#readme",
+  "dependencies": {
+    "gatsby": "^2.24.49",
+    "gatsby-theme-andy": "^0.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
