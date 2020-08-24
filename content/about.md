@@ -2,12 +2,17 @@
 title: My Digital Garden
 ---
 
-Hi, I'm Adam and this is my digital [[garden]]. A place for my notes and thoughts. It's not really structured, so feel free to browse it however you want.
+Hi, I'm Adam Amran 👋
 
-[[Another thought]]
+This is my digital garden – a place for my notes and thoughts.
 
-Random thoughts:
+I'm just starting out building this place so there's not much yet. 
+There's no fixed structure either, the system is associative. Best place to start exploring is to see what's on [[$Top of my mind]].
 
-People tend to to speak about problems in terms of solutions
+This is heavily inspired by Andy Matuschak's [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) and the [Zettelkasten method](https://zettelkasten.de/).
 
-Write concise & structured notes for later understanding
+The site is built with Gatsby and the [Andy theme](https://github.com/aravindballa/gatsby-theme-andy).
+
+Feel free to check out my [personal website](https://amran.cz) or [follow me on Twitter](https://twitter.com/amrancz).
+
+

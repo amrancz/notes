@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "525ffa2e09faa501",
+    "type": "split",
+    "children": [
+      {
+        "id": "313d3bd7725e9dc5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "About.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4c9d13711113d8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "18ce764474636a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31fb45f98a5c2f1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "684d818e51d35a81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a33179c51671a2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e4875875e597c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100c8e957613486a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "About.md",
+    "$Top of my mind.md",
+    "another-thought.md",
+    "People usually to speak about problems in terms of solutions.md",
+    "product management.md"
+  ]
+}
