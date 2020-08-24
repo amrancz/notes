@@ -23,6 +23,7 @@
     "gatsby": "^2.24.49",
     "gatsby-theme-andy": "^0.2.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-stacked-pages-hook": "^0.4.6"
   }
 }
