@@ -8,7 +8,8 @@
     "backlink": true,
     "command-palette": true,
     "markdown-importer": true,
-    "word-count": true
+    "word-count": true,
+    "daily-notes": true
   },
   "alwaysUpdateLinks": true,
   "promptDelete": false

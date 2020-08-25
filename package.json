@@ -21,7 +21,7 @@
   "homepage": "https://github.com/amrancz/notes#readme",
   "dependencies": {
     "@tippyjs/react": "^4.1.0",
-    "gatsby": "^2.20.36",
+    "gatsby": "^2.24.49",
     "gatsby-plugin-mdx": "^1.2.13",
     "gatsby-plugin-postcss": "^2.2.4",
     "gatsby-remark-embedder": "^2.1.1",

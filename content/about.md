@@ -11,7 +11,7 @@ There's no fixed structure either, the system is associative. Best place to star
 
 This is heavily inspired by Andy Matuschak's [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) and the [Zettelkasten method](https://zettelkasten.de/).
 
-The site is built with Gatsby and the [Andy theme](https://github.com/aravindballa/gatsby-theme-andy).
+The site is built with Gatsby and the [gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy).
 
 Feel free to check out my [personal website](https://amran.cz) or [follow me on Twitter](https://twitter.com/amrancz).
 
