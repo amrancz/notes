@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "About.md",
+            "file": "Trying to achieve immediately intuitive UI is problematic in complex products.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md"
+                "file": "Trying to achieve immediately intuitive UI is problematic in complex products.md"
               }
             }
           }
@@ -74,10 +74,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "about.md",
-    "2020-08-25.md",
-    "About.md",
+    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
+    "People usually to speak about problems in terms of solutions.md",
     "$Top of my mind.md",
-    "another-thought.md"
+    "about.md",
+    "2020-08-25.md"
   ]
 }
