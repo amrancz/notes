@@ -1,3 +1,7 @@
+---
+title: Read in two phases to limit wasting time and to increase knowledge
+---
+
 When you start reading a book, you don't know how valuable it's going to be.
 Reading slowly and thoroughly might be a waste of time.
 

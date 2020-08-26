@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "About.md",
+            "file": "Read in two phases to limit wasting time and to increase knowledge.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md"
+                "file": "Read in two phases to limit wasting time and to increase knowledge.md"
               }
             }
           }
@@ -84,10 +84,10 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Read in two phases to limit wasting time and to increase knowledge.md",
+    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
     "About.md",
     "$Areas of interest.md",
-    "$Top of my mind.md",
-    "Write about what you read.md",
-    "Read in two phases to limit wasting time and to increase knowledge.md"
+    "$Top of my mind.md"
   ]
 }
