@@ -6,11 +6,10 @@
       {
         "id": "313d3bd7725e9dc5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Read in two phases to limit wasting time and to increase knowledge.md",
+            "file": "About.md",
             "mode": "source"
           }
         }
@@ -18,10 +17,11 @@
       {
         "id": "d3cdfdaf14b05a2d",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Write about what you read.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read in two phases to limit wasting time and to increase knowledge.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -84,10 +84,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Read in two phases to limit wasting time and to increase knowledge.md",
-    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
+    "Untitled.md",
+    "Write about what you read.md",
     "About.md",
-    "$Areas of interest.md",
-    "$Top of my mind.md"
+    "Jobs to be done are relatively stable over time.md",
+    "Old designs do not become obsolete with new technologies.md"
   ]
 }

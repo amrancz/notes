@@ -11,6 +11,8 @@ This is also called "the barbell method of reading". The two phases are:
 - 1) Read quickly. Mark parts and passages that are useful or difficult to understand (or both).
 - 2) Read again but only the marked parts. Read thoroughly, make notes. Then reflect and make permanent notes. [[Write about what you read]].
 
+---
+
 Tags [[building personal knowledge]] [[note-taking]]
 
 ### References
