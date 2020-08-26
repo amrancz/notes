@@ -8,9 +8,17 @@
         "type": "leaf",
         "active": true,
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "d3cdfdaf14b05a2d",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "$Top of my mind.md",
+            "file": "Write about what you read.md",
             "mode": "source"
           }
         }
@@ -61,9 +69,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "$Top of my mind.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -73,10 +79,10 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "About.md",
+    "$Areas of interest.md",
     "$Top of my mind.md",
-    "Jobs to be done are relatively stable over time.md",
-    "Old designs do not become obsolete with new technologies.md",
-    "user interface design.md",
-    "People usually to speak about problems in terms of solutions.md"
+    "Write about what you read.md",
+    "Read in two phases to limit wasting time and to increase knowledge.md"
   ]
 }
