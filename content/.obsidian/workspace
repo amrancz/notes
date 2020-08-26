@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "$Top of my mind.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -58,21 +61,22 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "$Top of my mind.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "user research.md",
-    "People usually to speak about problems in terms of solutions.md",
-    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
-    "product design.md",
-    "$Top of my mind.md"
+    "$Top of my mind.md",
+    "Jobs to be done are relatively stable over time.md",
+    "Old designs do not become obsolete with new technologies.md",
+    "user interface design.md",
+    "People usually to speak about problems in terms of solutions.md"
   ]
 }

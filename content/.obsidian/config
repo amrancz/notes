@@ -12,5 +12,17 @@
     "daily-notes": true
   },
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "hotkeys": {
+    "editor:open-search-replace": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "f"
+      }
+    ]
+  },
+  "fileSortOrder": "alphabetical"
 }

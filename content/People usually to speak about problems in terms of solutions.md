@@ -7,4 +7,4 @@ When you talk to users about their problems, they'll naturally try to come up wi
 
 Your job as a designer is to uncover the underlying need behind the described solution.
 
-Tags: [[product management]] [[product design]][[user research]]
+Tags: [[product management]] [[product design]] [[user research]]
