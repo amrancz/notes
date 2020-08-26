@@ -13,6 +13,8 @@ Best places to start exploring is:
 - what's on [[$Top of my mind]]
 - my [[$Areas of interest]]
 
+---
+
 This is heavily inspired by Andy Matuschak's [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) and the [Zettelkasten method](https://zettelkasten.de/).
 
 The site is built with Gatsby and the [gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy).
