@@ -6,10 +6,11 @@
       {
         "id": "313d3bd7725e9dc5",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "About.md",
+            "file": "Product intuition needs to be calibrated through research.md",
             "mode": "source"
           }
         }
@@ -17,11 +18,10 @@
       {
         "id": "d3cdfdaf14b05a2d",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "product design.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337
   },
   "right": {
     "id": "1a33179c51671a2a",
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md"
+                "file": "Product intuition needs to be calibrated through research.md"
               }
             }
           }
@@ -84,10 +84,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Write about what you read.md",
-    "About.md",
-    "Jobs to be done are relatively stable over time.md",
-    "Old designs do not become obsolete with new technologies.md"
+    "Product intuition needs to be calibrated through research.md",
+    "People usually to speak about problems in terms of solutions.md",
+    "product design.md",
+    "Old designs do not become obsolete with new technologies.md",
+    "Read in two phases to limit wasting time and to increase knowledge.md"
   ]
 }
