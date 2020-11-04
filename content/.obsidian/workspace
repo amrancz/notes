@@ -10,18 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Product intuition needs to be calibrated through research.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d3cdfdaf14b05a2d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "product design.md",
+            "file": "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
             "mode": "source"
           }
         }
@@ -50,14 +39,16 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 337
+    "width": 387
   },
   "right": {
     "id": "1a33179c51671a2a",
@@ -73,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product intuition needs to be calibrated through research.md"
+                "file": "Reading notes/Product management 101 (Intro, definition, resposibilities).md"
               }
             }
           }
@@ -81,13 +72,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Product intuition needs to be calibrated through research.md",
-    "People usually to speak about problems in terms of solutions.md",
+    "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
+    "Minimize risk by building an MVP to learn as soon as possible without too much time and resource investment.md",
+    "Jobs to be done are relatively stable over time.md",
+    "note-taking.md",
+    "Read in two phases to limit wasting time and to increase knowledge.md",
+    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
+    "product management.md",
     "product design.md",
-    "Old designs do not become obsolete with new technologies.md",
-    "Read in two phases to limit wasting time and to increase knowledge.md"
+    "People usually to speak about problems in terms of solutions.md",
+    "Write about what you read.md"
   ]
 }

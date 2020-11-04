@@ -24,5 +24,6 @@
       }
     ]
   },
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "enabledPlugins": []
 }
