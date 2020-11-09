@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "user interface design.md",
+            "file": "User needs have functional and emotional dimensions.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "user interface design.md"
+                "file": "User needs have functional and emotional dimensions.md"
               }
             }
           }
@@ -73,10 +73,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "user interface design.md",
-    "Old designs do not become obsolete with new technologies.md",
-    "Jobs to be done are relatively stable over time.md",
+    "{WIP} User needs have functional and emotional dimensions.md",
     "Building the right thing is a foundation of good design.md",
-    "Trying to achieve immediately intuitive UI is problematic in complex products.md"
+    "$Top of my mind.md",
+    "$Areas of interest.md",
+    "user interface design.md"
   ]
 }
