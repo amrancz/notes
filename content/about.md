@@ -14,5 +14,3 @@ This is heavily inspired by Andy Matuschak's [Evergreen notes](https://notes.and
 The site is built with Gatsby and the [Andy theme](https://github.com/aravindballa/gatsby-theme-andy).
 
 Feel free to check out my [personal website](https://amran.cz) or [follow me on Twitter](https://twitter.com/amrancz).
-
-
