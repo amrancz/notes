@@ -1,20 +1,16 @@
 {
   "main": {
-    "id": "525ffa2e09faa501",
+    "id": "42b1723471b00cbd",
     "type": "split",
     "children": [
       {
-        "id": "313d3bd7725e9dc5",
+        "id": "c8a233840db928d4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "$Top of my mind.md",
-=======
-            "file": "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
->>>>>>> 03cdef64fb4b85d29ed5bc866ffed64fa881a109
+            "file": "user interface design.md",
             "mode": "source"
           }
         }
@@ -23,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f4c9d13711113d8a",
+    "id": "eafd1900aaf39dfd",
     "type": "split",
     "children": [
       {
-        "id": "18ce764474636a79",
+        "id": "22d428bf0ab2e591",
         "type": "tabs",
         "children": [
           {
-            "id": "31fb45f98a5c2f1c",
+            "id": "c2677093f1100dc9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,40 +35,34 @@
             }
           },
           {
-            "id": "684d818e51d35a81",
+            "id": "351ea2891317fcd0",
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {
-                "query": ""
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 300
   },
   "right": {
-    "id": "1a33179c51671a2a",
+    "id": "8855dafac19d77a5",
     "type": "split",
     "children": [
       {
-        "id": "62e4875875e597c5",
+        "id": "8157067b9dadb863",
         "type": "tabs",
         "children": [
           {
-            "id": "100c8e957613486a",
+            "id": "92de8ee287530058",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "$Top of my mind.md"
-=======
-                "file": "Reading notes/Product management 101 (Intro, definition, resposibilities).md"
->>>>>>> 03cdef64fb4b85d29ed5bc866ffed64fa881a109
+                "file": "user interface design.md"
               }
             }
           }
@@ -83,23 +73,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "$Top of my mind.md",
-    "About.md",
-    "People usually to speak about problems in terms of solutions.md",
-    "product management.md",
-    "another-thought.md"
-=======
-    "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
-    "Minimize risk by building an MVP to learn as soon as possible without too much time and resource investment.md",
+    "user interface design.md",
+    "Old designs do not become obsolete with new technologies.md",
     "Jobs to be done are relatively stable over time.md",
-    "note-taking.md",
-    "Read in two phases to limit wasting time and to increase knowledge.md",
-    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
-    "product management.md",
-    "product design.md",
-    "People usually to speak about problems in terms of solutions.md",
-    "Write about what you read.md"
->>>>>>> 03cdef64fb4b85d29ed5bc866ffed64fa881a109
+    "Building the right thing is a foundation of good design.md",
+    "Trying to achieve immediately intuitive UI is problematic in complex products.md"
   ]
 }

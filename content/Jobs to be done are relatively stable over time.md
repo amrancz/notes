@@ -11,3 +11,7 @@ Because jobs to be done are stable, old designs (especially in [[user interface 
 
 ### References
 Productboard: Jobs To Be Done Framework https://www.productboard.com/glossary/jobs-to-be-done-framework/
+
+---
+
+Tags: [[jobs-to-be-done]]
