@@ -10,7 +10,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "$Top of my mind.md",
+=======
+            "file": "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
+>>>>>>> 03cdef64fb4b85d29ed5bc866ffed64fa881a109
             "mode": "source"
           }
         }
@@ -39,14 +43,16 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387
   },
   "right": {
     "id": "1a33179c51671a2a",
@@ -62,7 +68,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "$Top of my mind.md"
+=======
+                "file": "Reading notes/Product management 101 (Intro, definition, resposibilities).md"
+>>>>>>> 03cdef64fb4b85d29ed5bc866ffed64fa881a109
               }
             }
           }
@@ -73,10 +83,23 @@
     "width": 300
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "$Top of my mind.md",
     "About.md",
     "People usually to speak about problems in terms of solutions.md",
     "product management.md",
     "another-thought.md"
+=======
+    "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
+    "Minimize risk by building an MVP to learn as soon as possible without too much time and resource investment.md",
+    "Jobs to be done are relatively stable over time.md",
+    "note-taking.md",
+    "Read in two phases to limit wasting time and to increase knowledge.md",
+    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
+    "product management.md",
+    "product design.md",
+    "People usually to speak about problems in terms of solutions.md",
+    "Write about what you read.md"
+>>>>>>> 03cdef64fb4b85d29ed5bc866ffed64fa881a109
   ]
 }

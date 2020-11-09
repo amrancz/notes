@@ -8,8 +8,22 @@
     "backlink": true,
     "command-palette": true,
     "markdown-importer": true,
-    "word-count": true
+    "word-count": true,
+    "daily-notes": true
   },
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "hotkeys": {
+    "editor:open-search-replace": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "f"
+      }
+    ]
+  },
+  "fileSortOrder": "alphabetical",
+  "enabledPlugins": []
 }
