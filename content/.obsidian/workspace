@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "User needs have functional and emotional dimensions.md",
+            "file": "user research.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
@@ -62,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User needs have functional and emotional dimensions.md"
+                "file": "user research.md"
               }
             }
           }
@@ -73,10 +75,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "{WIP} User needs have functional and emotional dimensions.md",
-    "Building the right thing is a foundation of good design.md",
-    "$Top of my mind.md",
-    "$Areas of interest.md",
-    "user interface design.md"
+    "user research.md",
+    "user interface design.md",
+    "product design.md",
+    "product management.md",
+    "jobs-to-be-done.md",
+    "Jobs to be done are relatively stable over time.md",
+    "User needs have functional and emotional dimensions.md",
+    "Reading notes/Inspired by Marty Cagan.md",
+    "01–Daily-notes/2020-08-25.md",
+    "Reading notes/Product management 101 (Intro, definition, resposibilities).md"
   ]
 }

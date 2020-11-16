@@ -1,8 +1,13 @@
 ---
 title: Product management 101 (Intro, definition, resposibilities)
 ---
+Author: [[Productboard]]
+Type: #article
+Tags: [[product management]]
 
-### Product manager's job is to **decide what to build next**.
+---
+
+### [[Product manager's job is to decide what to build next]].
 
 PM has to make sure that the feature of the product they're building is:
 - **valuable** (answers a user need – whether functional or emotional one)
@@ -73,8 +78,6 @@ In some cases (e.g. complex B2B products) it might make sense to share a roadmap
 - Celebrate what you've launched
 
 ---
-
-Tags: [[product management]] 
 
 ### References
 Productboard: Product Management 101 https://www.productboard.com/what-is-product-management-101/
