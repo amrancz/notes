@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "user research.md",
+            "file": "Reading notes/Inspired by Marty Cagan.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "user research.md"
+                "file": "Reading notes/Inspired by Marty Cagan.md"
               }
             }
           }
@@ -75,15 +75,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Reading notes/Inspired by Marty Cagan.md",
+    "Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value.md",
+    "Product managers have to have deep knowledge of customers.md",
+    "$Areas of interest.md",
     "user research.md",
     "user interface design.md",
     "product design.md",
     "product management.md",
     "jobs-to-be-done.md",
-    "Jobs to be done are relatively stable over time.md",
-    "User needs have functional and emotional dimensions.md",
-    "Reading notes/Inspired by Marty Cagan.md",
-    "01–Daily-notes/2020-08-25.md",
-    "Reading notes/Product management 101 (Intro, definition, resposibilities).md"
+    "Jobs to be done are relatively stable over time.md"
   ]
 }
