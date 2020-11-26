@@ -48,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 440
   },
   "right": {
     "id": "8855dafac19d77a5",
@@ -76,14 +76,14 @@
   },
   "lastOpenFiles": [
     "Reading notes/Inspired by Marty Cagan.md",
-    "Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value.md",
-    "Product managers have to have deep knowledge of customers.md",
+    "$Top of my mind.md",
     "$Areas of interest.md",
-    "user research.md",
-    "user interface design.md",
     "product design.md",
     "product management.md",
-    "jobs-to-be-done.md",
-    "Jobs to be done are relatively stable over time.md"
+    "Product managers have to have deep knowledge of customers.md",
+    "Product managers have to have deep knowledge of 4 key areas.md",
+    "Best solutions come from collaboration in strong product teams.md",
+    "Best solutions come from intense collaboration between PM, design and engineering.md",
+    "Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value.md"
   ]
 }

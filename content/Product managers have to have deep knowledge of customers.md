@@ -1,5 +1,5 @@
 ---
-title: Product managers have to have deep knowledge of customers
+title: Product managers have to have deep knowledge of 4 key areas
 ---
 Tags: [[product management]]
 
