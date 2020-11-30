@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/Inspired by Marty Cagan.md"
+                "file": "Reading notes/Inspired by Marty Cagan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,6 +86,7 @@
   },
   "lastOpenFiles": [
     "Reading notes/Inspired by Marty Cagan.md",
+    "Product teams have to solve problems, not just deliver features.md",
     "$Top of my mind.md",
     "$Areas of interest.md",
     "product design.md",
@@ -83,7 +94,6 @@
     "Product managers have to have deep knowledge of customers.md",
     "Product managers have to have deep knowledge of 4 key areas.md",
     "Best solutions come from collaboration in strong product teams.md",
-    "Best solutions come from intense collaboration between PM, design and engineering.md",
-    "Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value.md"
+    "Best solutions come from intense collaboration between PM, design and engineering.md"
   ]
 }

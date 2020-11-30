@@ -29,9 +29,9 @@ Type: #book
 
 ---
 
-- There are two key phases of product development process, running in parallel: discovery and delivery. Discover the product to be built and deliver it to the market.
-- Discovery is about minimizing the 4 product risks.
-- The goal is to achieve product/market fit: build the smallest possible product to meet the needs of a specific market.
+**- There are two key phases of product development process, running in parallel: discovery and delivery. Discover the product to be built and deliver it to the market.
+**- Discovery is about minimizing the 4 product risks.
+**- The goal is to achieve product/market fit: build the smallest possible product to meet the needs of a specific market.**
 
 ### Product teams
 - Strong product teams aim to solve problems, not simply build what they're asked. They're given objectives and it's up to them to reach them. The team is responsible for the outcome.
@@ -42,6 +42,48 @@ Type: #book
 - [[Product manager's job is to decide what to build next]] and deliver it to customers.
 - [[Product managers have to have deep knowledge of customers]]], but also data, business and market/industry
 
+#### Product designer
+- Product designer is measured on the success of the product. Not on the output of their work. Pixels in Figma don't matter, business results do.
+- Prototyping is one of the most important skills to communicate ideas to others and also to use in experiments to validate ideas.
+- In strong product teams, design informs the functionality as much as the functionality drives the design.
+- Product managers and product designers are partners and should work together.
+
+#### Engineers
+- Engineers should participate in discovery acitivities like interviews or user testing. They need to build the empathy for customers and their problems so that they can be missionaries (passionate about solving their problems) and not just mercenaries (only executing solutions passed onto them)
+
 ---
+Two inconvenient truth about products:
+- About half of product ideas won't work (e.g. don't bring enough value to customers)
+- [[Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value]]
+
+- The problem with roadmaps is that people tend to view them as commitment. Weak product teams carry on building with little consideration if it actually solves the problem. Strong product teams are able to quickly tackle the 4 risks by doing product discovery. [[Product teams have to solve problems, not just deliver features]].
+
+Roadmaps cater to two needs:
+- Management wants to make sure that teams will be working on high-value ideas first.
+- The company has to make date-based plans and roadmaps offer a view of commitments.
+
+Cagan states that roadmaps don't work and proposes a different model:
+
+Product teams have to understand the business context in order to best solve problems for the business autonomously. They get it from:
+- The product vision and strategy
+- Business objectives: tell the team what we need to accomplish and how it will be measured and let them solve it
+(This is where OKRs come in)
+
+Every product team must know how their work contributes to the larger business objectives and overall vision.
+
+In this model, management prioritizes business results over product ideas.
+
+When a team really has to commit to delivering on a date, it's a high-integrity commitment. (Possible parallel to Shape Up's "appetite"?)
+
+Some teams modify roadmaps to include objectives instead of product ideas: outcome-based roadmaps. These are a different way of communicating the objectives, similar to OKRs.
+
+
+
+
+
+
+---
+
+### Other notes
 
 [[Best solutions come from collaboration in strong product teams]]
