@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Product teams have to understand the business context in order to best solve problems for the business autonomously.md",
+            "file": "$Areas of interest.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product teams have to understand the business context in order to best solve problems for the business autonomously.md",
+                "file": "$Areas of interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,12 +85,12 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "$Areas of interest.md",
+    "$Top of my mind.md",
+    "Product teams have to solve problems, not just deliver features.md",
     "Product teams have to understand the business context in order to best solve problems for the business autonomously.md",
     "Reading notes/Inspired by Marty Cagan.md",
     "Product teams have to understand the business context in order to best solve problems for the business autonomously..md",
-    "Product teams have to solve problems, not just deliver features.md",
-    "$Top of my mind.md",
-    "$Areas of interest.md",
     "product design.md",
     "product management.md",
     "Product managers have to have deep knowledge of customers.md",
