@@ -56,6 +56,8 @@ Two inconvenient truth about products:
 - About half of product ideas won't work (e.g. don't bring enough value to customers)
 - [[Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value]]
 
+---
+
 - The problem with roadmaps is that people tend to view them as commitment. Weak product teams carry on building with little consideration if it actually solves the problem. Strong product teams are able to quickly tackle the 4 risks by doing product discovery. [[Product teams have to solve problems, not just deliver features]].
 
 Roadmaps cater to two needs:
@@ -64,7 +66,7 @@ Roadmaps cater to two needs:
 
 Cagan states that roadmaps don't work and proposes a different model:
 
-Product teams have to understand the business context in order to best solve problems for the business autonomously. They get it from:
+[[Product teams have to understand the business context in order to best solve problems for the business autonomously]] They get it from:
 - The product vision and strategy
 - Business objectives: tell the team what we need to accomplish and how it will be measured and let them solve it
 (This is where OKRs come in)
@@ -76,6 +78,8 @@ In this model, management prioritizes business results over product ideas.
 When a team really has to commit to delivering on a date, it's a high-integrity commitment. (Possible parallel to Shape Up's "appetite"?)
 
 Some teams modify roadmaps to include objectives instead of product ideas: outcome-based roadmaps. These are a different way of communicating the objectives, similar to OKRs.
+
+---
 
 
 
