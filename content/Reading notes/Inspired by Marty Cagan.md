@@ -53,7 +53,7 @@ Type: #book
 
 ---
 Two inconvenient truth about products:
-- About half of product ideas won't work (e.g. don't bring enough value to customers)
+- [[About half of product ideas won't work]] (e.g. don't bring enough value to customers)
 - [[Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value]]
 
 ---
@@ -81,9 +81,26 @@ Some teams modify roadmaps to include objectives instead of product ideas: outco
 
 ---
 
+- Teams need to learn fast and discover the right solution (discovery) but also deliver with confidence (delivery). That means robust, scalable and secure software. How to make the two work?
 
+- Making reliable and robust software is hard. That's why it's important that we have the confidence that what we're building will bring value to customers. Discovery allows us to build that confidence and provide evidence for that.
 
+- To discover great products, get in front of customers and test ideas.
+- To deliver great products, use best practices for engineering and don't override engineers' concerns.
 
+## Product discovery
+- The purpose of discovery is to address the 4 risks (value, usability, feasibility, business viability)
+
+Core principles of discovery:
+- It's our job as product teams to find solutions to customer/user needs. They cannot tell us what to build, only what problems to solve. They don't know what's possible.
+- Establishing value is more important than eliminating every usability issue or having the best performance.
+- Technology (engineering), design and functionality (prod.mgmt) are intertwined. They drive and enable each other.
+- [[About half of product ideas won't work]]. We can't know in advance what will work for customers. That's how we approach the discovery. And that's why we have to [[Validate ideas with real users and customers]]
+- Validate feasibility during discovery. Developers must see your ideas before planning a sprint (-> grooming?). Engineering perspective also often improves the solutions and it's important to get it early. PM and designer share the responsibility on this.
+	- Same goes for business viability. This is mostly the PM's responsibility to make sure it's addressed.
+- Product teams should learn together. They should watch how ideas work (or don't) in front of customers. They should share the customer's pain or delight in using the product they've made. And learn from it together.
+
+Another risk that teams should consider is ethics. "Should we build it?"
 
 
 ---

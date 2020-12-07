@@ -8,7 +8,7 @@ title: Product management MOC
 - [[Product managers have to have deep knowledge of customers]]
 - [[Building the right thing is a foundation of good design]]
 - [[Minimize risk by building an MVP to learn as soon as possible without too much time and resource investment]]
-- [[People usually to speak about problems in terms of solutions]]
+- [[People tend to speak about problems in terms of solutions]]
 - [[Best solutions come from collaboration in strong product teams]]
 
 ## Resources
