@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People tend to speak about problems in terms of solutions.md",
+            "file": "product design.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People tend to speak about problems in terms of solutions.md",
+                "file": "product design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "product design.md",
+    "Establishing value is more important than eliminating every usability issue or having the best performance.md",
+    "product management.md",
+    "Reading notes/Inspired by Marty Cagan.md",
+    "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
+    "People tend to speak about problems in terms of solutions.md",
     "People usually to speak about problems in terms of solutions.md",
     "$Top of my mind.md",
-    "Reading notes/Inspired by Marty Cagan.md",
     "Validate ideas with real users and customers.md",
-    "Prototyping is one of the key design skills.md",
-    "About half of product ideas won't work.md",
-    "01–Daily-notes/2020-08-25.md",
-    "$Areas of interest.md",
-    "Product teams have to solve problems, not just deliver features.md",
-    "Product teams have to understand the business context in order to best solve problems for the business autonomously.md"
+    "Prototyping is one of the key design skills.md"
   ]
 }

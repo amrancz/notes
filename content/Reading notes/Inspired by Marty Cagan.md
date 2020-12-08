@@ -90,17 +90,32 @@ Some teams modify roadmaps to include objectives instead of product ideas: outco
 
 ## Product discovery
 - The purpose of discovery is to address the 4 risks (value, usability, feasibility, business viability)
+	- Another risk that teams should consider is ethics. "Should we build it?"
 
 Core principles of discovery:
 - It's our job as product teams to find solutions to customer/user needs. They cannot tell us what to build, only what problems to solve. They don't know what's possible.
-- Establishing value is more important than eliminating every usability issue or having the best performance.
+- [[Establishing value is more important than eliminating every usability issue or having the best performance]].
 - Technology (engineering), design and functionality (prod.mgmt) are intertwined. They drive and enable each other.
 - [[About half of product ideas won't work]]. We can't know in advance what will work for customers. That's how we approach the discovery. And that's why we have to [[Validate ideas with real users and customers]]
 - Validate feasibility during discovery. Developers must see your ideas before planning a sprint (-> grooming?). Engineering perspective also often improves the solutions and it's important to get it early. PM and designer share the responsibility on this.
 	- Same goes for business viability. This is mostly the PM's responsibility to make sure it's addressed.
 - Product teams should learn together. They should watch how ideas work (or don't) in front of customers. They should share the customer's pain or delight in using the product they've made. And learn from it together.
 
-Another risk that teams should consider is ethics. "Should we build it?"
+### Discovery techniques
+
+There are several activities or areas we do during discovery and each has some techniques:
+
+1. Framing
+	1. Goal: Clearly identify the problem(s) to solve and what to focus on
+2. Planning
+	1. Goal: TBD
+3. Ideating
+	1. Goal: Gather ideas for solutions to the selected problem
+4. Prototyping
+	1. Goal: Prototype the most promising ideas so that we can test them
+5. Testing
+	1. Goal: Address each of the 4 risks through various forms of testing
+	2. Caveat: Not all ideas have risks in all the 4 main areas. Only validate what you need to.
 
 
 ---

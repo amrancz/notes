@@ -8,5 +8,6 @@ title: Product design MOC
 - [[Best solutions come from collaboration in strong product teams]]
 - [[Product intuition needs to be calibrated through research]]
 - [[Trying to achieve immediately intuitive UI is problematic in complex products]]
+- [[Establishing value is more important than eliminating every usability issue or having the best performance]]
 
 ## Resources

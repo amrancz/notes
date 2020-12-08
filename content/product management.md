@@ -10,6 +10,7 @@ title: Product management MOC
 - [[Minimize risk by building an MVP to learn as soon as possible without too much time and resource investment]]
 - [[People tend to speak about problems in terms of solutions]]
 - [[Best solutions come from collaboration in strong product teams]]
+- [[Establishing value is more important than eliminating every usability issue or having the best performance]]
 
 ## Resources
 - [[Inspired by Marty Cagan]]
