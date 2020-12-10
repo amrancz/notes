@@ -1,6 +1,5 @@
 ---
 title: Inspired: How to Create Tech Products Customers Love
-author: Marty Cagan
 ---
 
 Author: [[Marty Cagan]]
@@ -13,7 +12,7 @@ Type: #book
 	- Growth companies strugle with teams not knowing how their work fits/contributes into larger goals and not being empowered/autonomous enough
 	- Enterprise companies struggle with innovating. Their teams don't have enough empowerment to bring real innovation. They lack vision (because the founding vision was perhaps achieved)
 
-### Why waterfall doesn't work (aka Root Causes of Product Efforts)
+### Why waterfall doesn't work (aka Root Causes of Failed Product Efforts)
 - Sales- or stakeholder-driven ideas are usually not the best for products
 - Deciding based on "business cases" (how much will X make vs. how much will it cost), because you cannot know early in the process.
 - Many product ideas won't work -> it's not a good idea to build out big product roadmaps based on them. And even if they do, it takes time to develop them: [[Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value]]. 
@@ -116,6 +115,25 @@ There are several activities or areas we do during discovery and each has some t
 5. Testing
 	1. Goal: Address each of the 4 risks through various forms of testing
 	2. Caveat: Not all ideas have risks in all the 4 main areas. Only validate what you need to.
+
+Not every effort will require framing and planning. Sometimes, the solution to a problem is straightforward and team goes right into delivery.
+
+Often, though, there are some risks that have to be addressed. Some teams focus too much on usability or feasibility risk. Value risk is still the most important to address – it's usually the biggest risk.
+
+If the team doesn't feel any significant risk, it's better to proceed to delivery than to be too conservative and test every assumption first. It's important to learn quickly.
+
+#### Three discovery framing techniques
+- Opportunity assessment
+	- Answer and document 4 key questions:
+		- What will this help us to achieve? (Business objective)
+		- How will we know we succeeded? (Key results)
+		- What problem does this solve for customers/users?
+		- Who are we doing it for? What is our target market/segment/persona?
+- Customer letter
+	- Describe the future you want to create from the perspective of the customer and how it will benefit them.
+	- The goal is to help the team [[Focus on the outcome, not the output]]
+- Startup canvas
+	- Similar to lean canvas or business model canvas. Best used when working on a whole new product or establishing a business.
 
 
 ---
