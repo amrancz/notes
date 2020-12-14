@@ -90,6 +90,7 @@ Some teams modify roadmaps to include objectives instead of product ideas: outco
 ## Product discovery
 - The purpose of discovery is to address the 4 risks (value, usability, feasibility, business viability)
 	- Another risk that teams should consider is ethics. "Should we build it?"
+- Product discovery is about finding the cheapest, fastest ways of coming up and testing product ideas.
 
 Core principles of discovery:
 - It's our job as product teams to find solutions to customer/user needs. They cannot tell us what to build, only what problems to solve. They don't know what's possible.
@@ -123,6 +124,7 @@ Often, though, there are some risks that have to be addressed. Some teams focus 
 If the team doesn't feel any significant risk, it's better to proceed to delivery than to be too conservative and test every assumption first. It's important to learn quickly.
 
 #### Three discovery framing techniques
+The goal is to articulate what we want to achieve with the discovery work.
 - Opportunity assessment
 	- Answer and document 4 key questions:
 		- What will this help us to achieve? (Business objective)
@@ -135,6 +137,40 @@ If the team doesn't feel any significant risk, it's better to proceed to deliver
 - Startup canvas
 	- Similar to lean canvas or business model canvas. Best used when working on a whole new product or establishing a business.
 
+#### Discovery planning techniques
+- Story mapping
+	- For seeing individual user stories in context. Helps with defining what to prototype.
+- Customer discovery program
+	- One of the best techniques to make sure you have strong product but takes a lot of effort.
+	- The goal is to gain access to target customers that you can source product ideas from. Then to build a set of reference customers (ideally 6). This basically builds social proof.
+	- Reference customer: real customer, actually using the product, paying money for it and willing to tell others about how much they love the product. Very powerful to have them.
+	- Ideal for large efforts (e.g. creating a new product or a redesign), not for smaller features or projects.
+
+#### Discovery ideation techniques
+- Customer Interviews
+	- Basic but also very powerful technique.
+	- Designer, PM and one engineer should attend these.
+- Concierge Test
+	- Have the trio perform a task or a job of the target audience.
+- Power of Customer Misbehavior
+	- See if people use your product for unintended use cases. Find the need behind that usage to discover some great product opportunities.
+- Hack days
+	- People work on any idea under the company's mission or a specific objective. Great for building the "missionary not mercenary" mindset. Also good for involving engineers in ideation.
+
+#### Discovery prototyping techniques
+- User prototype
+- Live-data prototype
+- Hybrid prototype
+- Feasibility prototype
+	- For devs to assess feasibility risk. It's often about performance, but could be a new tech or an algorithm.
+
+#### Principles of prototyping
+- Prototyping is about learning at a fraction of the cost of building a real product.
+- Prototyping forces you to really think through the solution and uncover things that need to be addressed.
+- Prototype can be a great collaboration tool. Allows the team and partners to experience the potential solution.
+- It's important to choose the appropriate fidelity of the prototype for its intended purpose. Different levels of fidelity require a different level of effort to build.
+- Prototype can also serve as a spec to developers so they know what to build.
+- Prototype will usually be thrown away after learning or building the actual product. So don't invest more time in it than necessary.
 
 ---
 
