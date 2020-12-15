@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "$about.md",
+            "file": "Reading notes/Inspired by Marty Cagan.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "$about.md",
+                "file": "Reading notes/Inspired by Marty Cagan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Reading notes/Inspired by Marty Cagan.md",
+    "Four product risks.md",
+    "Usability testing.md",
+    "Product discovery.md",
     "$about.md",
     "product management.md",
     "Untitled.md",
-    "Reading notes/Inspired by Marty Cagan.md",
     "product design.md",
     "Focus on the outcome, not the output.md",
-    "People tend to speak about problems in terms of solutions.md",
-    "Establishing value is more important than eliminating every usability issue or having the best performance.md",
-    "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
-    "People usually to speak about problems in terms of solutions.md"
+    "People tend to speak about problems in terms of solutions.md"
   ]
 }

@@ -22,7 +22,7 @@ Type: #book
 - There's opportunity loss. Working on something nobody needs loses you time and money that you can't get back.
 
 ### Three principles of working agile
-1. The 4 risks are addressed early in the process, instead of at the end.
+1. The [[Four product risks]] are addressed early in the process, instead of at the end.
 2. Products are defined in collaboration instead of in sequence. The product teams work together to define and design the product.
 3. Product teams try to solve problems instead of merely implementing features. Outcomes > output.
 
@@ -171,6 +171,15 @@ The goal is to articulate what we want to achieve with the discovery work.
 - It's important to choose the appropriate fidelity of the prototype for its intended purpose. Different levels of fidelity require a different level of effort to build.
 - Prototype can also serve as a spec to developers so they know what to build.
 - Prototype will usually be thrown away after learning or building the actual product. So don't invest more time in it than necessary.
+
+### Value testing
+Demand testing:
+- Fake door demand test
+- Landing page demand test
+
+When the demand is there but we're unsure if people will choose to use/buy it, we have to test for value.
+Qualititative testing of product ideas with real users and customers is one of the most important discovery activities. 
+Testing for value during user interviews is typically preceded by a usability test so that the user knows what the product/feature is all about.
 
 ---
 
