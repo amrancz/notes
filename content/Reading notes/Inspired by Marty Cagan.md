@@ -180,9 +180,31 @@ Demand testing:
 When the demand is there but we're unsure if people will choose to use/buy it, we have to test for value.
 Qualititative testing of product ideas with real users and customers is one of the most important discovery activities. 
 Testing for value during user interviews is typically preceded by a usability test so that the user knows what the product/feature is all about.
+Few ways of testing for value:
+- using money
+- using time
+- using reputation
+- using access
+
+Qualitative testing is about learning and insights. Quantitative testing is about collecting evidence.
+
+It's crucial to enable teams to collect data on how what they ship is being used. Otherwise, they're left in the dark. PM's should watch not only user analytics but also things like sentiment, performance or business analytics (conversions, active users etc.).
+
+### Testing feasibility
+There are many factors that engineers must consider when evaluating a feasibility of something:
+- How to build it? - the most fundamental thing
+- But then also: Scale, infrastracture, dependencies, cost, performance, available components, required architectural changes, time and necessary skills
+
+Don't throw product ideas at engineers. It's best if they have the time to investigate and consider them in advance, before planning any work (and giving estimates). This is why the whole team should learn together and engineers should watch how ideas are tested.
+Often, when engineers have time to investigate, they can come up with great ways of solving something technologically.
+
+### Testing business viability
+It's about making sure that the proposed product idea works within constraints of different areas of the business – from marketing, through legal, CS to management.
+Impacted stakeholders should have a chance to review the idea and have their concerns addressed.
 
 ---
 
 ### Other notes
 
-[[Best solutions come from collaboration in strong product teams]]
+- [[Best solutions come from collaboration in strong product teams]]
+- Data beats opinions
