@@ -202,6 +202,8 @@ Often, when engineers have time to investigate, they can come up with great ways
 It's about making sure that the proposed product idea works within constraints of different areas of the business – from marketing, through legal, CS to management.
 Impacted stakeholders should have a chance to review the idea and have their concerns addressed.
 
+It's the PM's job to ensure the team's work will sit well with all key stakeholders. Stakeholders should be kept in the loop and be able to look at the prototypes in discovery that the team intends to build. They should have space to express concerns and ask questions. PM has to build collaborative and respectful relationships with them, ideally through some regular 1-1 time.
+
 ---
 
 ### Other notes
