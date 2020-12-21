@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading notes/Inspired by Marty Cagan.md",
+            "file": "Outcomes over outputs.md",
             "mode": "source"
           }
         }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/Inspired by Marty Cagan.md",
+                "file": "Outcomes over outputs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Reading notes/Inspired by Marty Cagan.md",
-    "Four product risks.md",
-    "Usability testing.md",
-    "Product discovery.md",
-    "$about.md",
-    "product management.md",
-    "Untitled.md",
-    "product design.md",
+    "Outcomes over outputs.md",
     "Focus on the outcome, not the output.md",
-    "People tend to speak about problems in terms of solutions.md"
+    "product management.md",
+    "product design.md",
+    "Reading notes/Inspired by Marty Cagan.md",
+    "Product teams have to understand the business context in order to best solve problems for the business autonomously.md",
+    "Four product risks.md",
+    "Product discovery.md",
+    "Product teams have to solve problems, not just deliver features.md",
+    "Usability testing.md"
   ]
 }

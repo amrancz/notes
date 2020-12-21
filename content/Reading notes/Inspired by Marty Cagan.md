@@ -23,8 +23,8 @@ Type: #book
 
 ### Three principles of working agile
 1. The [[Four product risks]] are addressed early in the process, instead of at the end.
-2. Products are defined in collaboration instead of in sequence. The product teams work together to define and design the product.
-3. Product teams try to solve problems instead of merely implementing features. Outcomes > output.
+2. Products are defined in **collaboration** instead of in sequence. The product teams work together to define and design the product.
+3. Product teams try to solve problems instead of merely implementing features. [[Outcomes over outputs]].
 
 ---
 
@@ -33,13 +33,13 @@ Type: #book
 **- The goal is to achieve product/market fit: build the smallest possible product to meet the needs of a specific market.**
 
 ### Product teams
-- Strong product teams aim to solve problems, not simply build what they're asked. They're given objectives and it's up to them to reach them. The team is responsible for the outcome.
-- The whole product team needs to understand the customer needs and business objectives.
+- Strong [[Product teams have to solve problems, not just deliver features]] They're given objectives and it's up to them to reach them. The team is responsible for the outcome. This is what the term "empowered teams" means.
+- [[Product teams need context in order to best solve problems for the business autonomously]]. Context means customer needs and business objectives.
 - Three key roles of product teams are: product managers, product designers and engineers. "The holy trio".
 
 #### Product manager
-- [[Product manager's job is to decide what to build next]] and deliver it to customers.
-- [[Product managers have to have deep knowledge of customers]]], but also data, business and market/industry
+- [[Product manager's job is to decide what to build next]] and make sure the team delivers it to customers.
+- [[Product managers have to have deep knowledge of customers]], but also data, business and market/industry.
 
 #### Product designer
 - Product designer is measured on the success of the product. Not on the output of their work. Pixels in Figma don't matter, business results do.
@@ -65,7 +65,7 @@ Roadmaps cater to two needs:
 
 Cagan states that roadmaps don't work and proposes a different model:
 
-[[Product teams have to understand the business context in order to best solve problems for the business autonomously]] They get it from:
+[[Product teams need context in order to best solve problems for the business autonomously]] They get it from:
 - The product vision and strategy
 - Business objectives: tell the team what we need to accomplish and how it will be measured and let them solve it
 (This is where OKRs come in)
@@ -133,7 +133,7 @@ The goal is to articulate what we want to achieve with the discovery work.
 		- Who are we doing it for? What is our target market/segment/persona?
 - Customer letter
 	- Describe the future you want to create from the perspective of the customer and how it will benefit them.
-	- The goal is to help the team [[Focus on the outcome, not the output]]
+	- The goal is to help the team focus on [[Outcomes over outputs]]
 - Startup canvas
 	- Similar to lean canvas or business model canvas. Best used when working on a whole new product or establishing a business.
 
@@ -203,6 +203,25 @@ It's about making sure that the proposed product idea works within constraints o
 Impacted stakeholders should have a chance to review the idea and have their concerns addressed.
 
 It's the PM's job to ensure the team's work will sit well with all key stakeholders. Stakeholders should be kept in the loop and be able to look at the prototypes in discovery that the team intends to build. They should have space to express concerns and ask questions. PM has to build collaborative and respectful relationships with them, ideally through some regular 1-1 time.
+
+
+## The right culture
+
+Ten principles for creating great products and innovating:
+1. Customer-centric culture
+2. Compelling product vision
+3. Focused product strategy
+4. Strong product managers
+5. Stable product teams
+6. Engineers in discovery
+7. Corporate courage
+8. Empowered product teams
+9. Product mindset
+10. Time to innovate
+
+These principles are important for consistent innovation (regularly adding value to the business).
+
+Strong product culture = strong innovation culture (discovery) + strong execution culture (delivery)
 
 ---
 

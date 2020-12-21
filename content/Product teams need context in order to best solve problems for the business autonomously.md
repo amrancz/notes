@@ -1,8 +1,11 @@
 ---
-title: Product teams have to understand the business context in order to best solve problems for the business autonomously
+title: Product teams context in order to best solve problems for the business autonomously
 ---
 
-Business context is needed for product teams to be really empowered to solve business problems with autonomy. [[Product teams have to solve problems, not just deliver features]] and they need this context to do it well.
+
+The whole product team needs to understand the customer needs and business objectives. 
+
+This context is needed for product teams to be really empowered to solve business problems with autonomy. [[Product teams have to solve problems, not just deliver features]] and they need this context to do it well.
 
 They can get it from:
 - the product vision – where do we ultimately want to get as a company? (this is different from the company's mission, though!)

@@ -11,7 +11,7 @@ title: Product management MOC
 - [[People tend to speak about problems in terms of solutions]]
 - [[Best solutions come from collaboration in strong product teams]]
 - [[Establishing value is more important than eliminating every usability issue or having the best performance]]
-- [[Focus on the outcome, not the output]]
+- [[Outcomes over outputs]]
 
 ## Resources
 - [[Inspired by Marty Cagan]]
