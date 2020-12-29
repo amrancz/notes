@@ -13,7 +13,38 @@
             "file": "Connect new notes to existing ones.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "23ace1e20ecbb49a"
+      },
+      {
+        "id": "02712d77b75dd3df",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Connect new notes to existing ones.md",
+            "options": {
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.9524648714093806
+            }
+          }
+        },
+        "group": "23ace1e20ecbb49a"
       }
     ],
     "direction": "vertical"
@@ -40,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,18 +113,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "Connect new notes to existing ones.md",
-    "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
-    "Reading notes/Cagan – Inspired.md",
-    "Reading notes/How to Take Smart Notes – Sönke Ahrens.md",
-    "Reading notes/Inspired by Marty Cagan.md",
-    "01–Daily-notes/2020-08-25.md",
-    "Reading notes/Untitled.md",
-    "Jobs to be done are relatively stable over time.md",
+    "User needs have functional and emotional dimensions.md",
+    "jobs-to-be-done.md",
+    "$about.md",
+    "Four product risks.md",
+    "Usability testing.md",
+    "Reading notes/Ahrens – How to Take Smart Notes.md",
     "note-taking.md",
-    "jobs-to-be-done.md"
+    "Read in two phases to limit wasting time and to increase knowledge.md",
+    "Write about what you read.md"
   ]
 }
