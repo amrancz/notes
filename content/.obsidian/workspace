@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "42b1723471b00cbd",
+    "id": "6663d9c20fe665e1",
     "type": "split",
     "children": [
       {
-        "id": "c483e7151a792fcb",
+        "id": "9c185139a15688d8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Outcomes over outputs.md",
+            "file": "Connect new notes to existing ones.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eafd1900aaf39dfd",
+    "id": "4a40190f6d16b2db",
     "type": "split",
     "children": [
       {
-        "id": "22d428bf0ab2e591",
+        "id": "a3b4c9c19173fe2f",
         "type": "tabs",
         "children": [
           {
-            "id": "c2677093f1100dc9",
+            "id": "ef97547cf0545bda",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "351ea2891317fcd0",
+            "id": "518c7d4646e1e6b7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,36 +53,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440
+    "width": 300
   },
   "right": {
-    "id": "8855dafac19d77a5",
+    "id": "71a72a53b1a8020e",
     "type": "split",
     "children": [
       {
-        "id": "8157067b9dadb863",
+        "id": "9a2065eaaa787114",
         "type": "tabs",
         "children": [
           {
-            "id": "92de8ee287530058",
+            "id": "cb3e77cff1206a7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "User needs have functional and emotional dimensions.md",
-=======
-                "file": "Outcomes over outputs.md",
->>>>>>> ea1691fbecf1fbd5c0448da8cb2c7f0388f8c425
+                "file": "Connect new notes to existing ones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-<<<<<<< HEAD
                 "unlinkedCollapsed": true
-=======
-                "unlinkedCollapsed": false
->>>>>>> ea1691fbecf1fbd5c0448da8cb2c7f0388f8c425
               }
             }
           }
@@ -93,24 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "User needs have functional and emotional dimensions.md",
-    "{WIP} User needs have functional and emotional dimensions.md",
-    "Building the right thing is a foundation of good design.md",
-    "$Top of my mind.md",
-    "$Areas of interest.md",
-    "user interface design.md"
-=======
-    "Outcomes over outputs.md",
-    "Focus on the outcome, not the output.md",
-    "product management.md",
-    "product design.md",
+    "Connect new notes to existing ones.md",
+    "Reading notes/Product management 101 (Intro, definition, resposibilities).md",
+    "Reading notes/Cagan – Inspired.md",
+    "Reading notes/How to Take Smart Notes – Sönke Ahrens.md",
     "Reading notes/Inspired by Marty Cagan.md",
-    "Product teams have to understand the business context in order to best solve problems for the business autonomously.md",
-    "Four product risks.md",
-    "Product discovery.md",
-    "Product teams have to solve problems, not just deliver features.md",
-    "Usability testing.md"
->>>>>>> ea1691fbecf1fbd5c0448da8cb2c7f0388f8c425
+    "01–Daily-notes/2020-08-25.md",
+    "Reading notes/Untitled.md",
+    "Jobs to be done are relatively stable over time.md",
+    "note-taking.md",
+    "jobs-to-be-done.md"
   ]
 }

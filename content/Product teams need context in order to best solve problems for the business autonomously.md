@@ -19,4 +19,4 @@ Teams can then be given business objectives. With the necessary context, they ca
 
 Tags: [[product management]]
 
-Resources: [[Inspired by Marty Cagan]]
+Resources: [[Cagan – Inspired]]

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"theme":"obsidian","pluginEnabledStatus":{"file-explorer":true,"global-search":true,"switcher":true,"graph":true,"backlink":true,"command-palette":true,"markdown-importer":true,"word-count":true,"daily-notes":true,"open-with-default-app":true},"alwaysUpdateLinks":true,"promptDelete":false,"hotkeys":{"editor:open-search-replace":[{"modifiers":["Mod","Shift"],"key":"f"}]},"fileSortOrder":"alphabetical","enabledPlugins":[]}
-=======
-{"theme":"obsidian","pluginEnabledStatus":{"file-explorer":true,"global-search":true,"switcher":true,"graph":true,"backlink":true,"command-palette":true,"markdown-importer":true,"word-count":true,"daily-notes":true,"random-note":true,"zk-prefixer":false,"translucency":true,"open-with-default-app":true,"templates":true},"alwaysUpdateLinks":true,"promptDelete":true,"hotkeys":{"editor:open-search-replace":[{"modifiers":["Mod","Shift"],"key":"f"}]},"fileSortOrder":"alphabetical","enabledPlugins":[]}
->>>>>>> ea1691fbecf1fbd5c0448da8cb2c7f0388f8c425
+{"pluginEnabledStatus":{"file-explorer":true,"global-search":true,"switcher":true,"graph":true,"backlink":true,"command-palette":true,"markdown-importer":true,"word-count":true,"open-with-default-app":true},"fileSortOrder":"byModifiedTime","alwaysUpdateLinks":true}
