@@ -39,7 +39,14 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -62,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User needs have functional and emotional dimensions.md"
+                "file": "User needs have functional and emotional dimensions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -73,6 +85,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "User needs have functional and emotional dimensions.md",
     "{WIP} User needs have functional and emotional dimensions.md",
     "Building the right thing is a foundation of good design.md",
     "$Top of my mind.md",
