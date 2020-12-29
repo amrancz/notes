@@ -7,7 +7,7 @@ Hi, I'm Adam Amran 👋
 This is my digital garden – a place for my notes and thoughts.
 
 I'm just starting out building this place so there's not much yet. 
-There's no fixed structure either, the system is associative. 
+There's no fixed structure either, the system is associative.
 
 Best places to start exploring is:
 - what's on [[$Top of my mind]]

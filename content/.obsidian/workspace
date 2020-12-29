@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a233840db928d4",
+        "id": "c483e7151a792fcb",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "User needs have functional and emotional dimensions.md",
+            "file": "Outcomes over outputs.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 440
   },
   "right": {
     "id": "8855dafac19d77a5",
@@ -69,12 +69,20 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "User needs have functional and emotional dimensions.md",
+=======
+                "file": "Outcomes over outputs.md",
+>>>>>>> ea1691fbecf1fbd5c0448da8cb2c7f0388f8c425
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
+<<<<<<< HEAD
                 "unlinkedCollapsed": true
+=======
+                "unlinkedCollapsed": false
+>>>>>>> ea1691fbecf1fbd5c0448da8cb2c7f0388f8c425
               }
             }
           }
@@ -85,11 +93,24 @@
     "width": 300
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "User needs have functional and emotional dimensions.md",
     "{WIP} User needs have functional and emotional dimensions.md",
     "Building the right thing is a foundation of good design.md",
     "$Top of my mind.md",
     "$Areas of interest.md",
     "user interface design.md"
+=======
+    "Outcomes over outputs.md",
+    "Focus on the outcome, not the output.md",
+    "product management.md",
+    "product design.md",
+    "Reading notes/Inspired by Marty Cagan.md",
+    "Product teams have to understand the business context in order to best solve problems for the business autonomously.md",
+    "Four product risks.md",
+    "Product discovery.md",
+    "Product teams have to solve problems, not just deliver features.md",
+    "Usability testing.md"
+>>>>>>> ea1691fbecf1fbd5c0448da8cb2c7f0388f8c425
   ]
 }

@@ -1,8 +1,13 @@
 ---
 title: Product management 101 (Intro, definition, resposibilities)
 ---
+Author: [[Productboard]]
+Type: #article
+Tags: [[product management]]
 
-### Product manager's job is to **decide what to build next**.
+---
+
+### [[Product manager's job is to decide what to build next]].
 
 PM has to make sure that the feature of the product they're building is:
 - **valuable** (answers a user need – whether functional or emotional one)
@@ -13,7 +18,7 @@ PM has to make sure that the feature of the product they're building is:
 
 PM needs to understand user needs very well to be able to decide what the best solution would be.
 
-[[People usually to speak about problems in terms of solutions]]
+[[People tend to speak about problems in terms of solutions]]
 That's a trap PM's fall into as well – to think in solutions. But it's crucial to really identify and understand the problem/user need first.
 And when people talk in solutions (request a specific feature), it's important to look beyond it to the actual need, because there might be a better solution for it.
 
@@ -73,8 +78,6 @@ In some cases (e.g. complex B2B products) it might make sense to share a roadmap
 - Celebrate what you've launched
 
 ---
-
-Tags: [[product management]] 
 
 ### References
 Productboard: Product Management 101 https://www.productboard.com/what-is-product-management-101/
