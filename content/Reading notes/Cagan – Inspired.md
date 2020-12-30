@@ -1,5 +1,5 @@
 ---
-title: Inspired: How to Create Tech Products Customers Love
+title: Inspired: How to Create Tech Products Customers Love – Marty Cagan
 ---
 
 Author: [[Marty Cagan]]

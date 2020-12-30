@@ -15,4 +15,4 @@ This also explains why [[Building the right thing is a foundation of good design
 ---
 
 ### References
-- [[Inspired by Marty Cagan]]
+- [[Cagan – Inspired]]

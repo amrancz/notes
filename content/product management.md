@@ -14,5 +14,5 @@ title: Product management MOC
 - [[Outcomes over outputs]]
 
 ## Resources
-- [[Inspired by Marty Cagan]]
-- [[Product management 101 (Intro, definition, resposibilities)]]
+- [[Cagan – Inspired]]
+- [[Productboard – Product management 101 (Intro, definition, resposibilities)]]

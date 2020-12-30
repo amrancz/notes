@@ -13,4 +13,4 @@ Your job as a designer is to uncover the underlying need or problem (e.g. I need
 Tags: [[product management]] [[product design]] [[user research]]
 
 References:
-- [[Inspired by Marty Cagan]] (p. 177)
+- [[Cagan – Inspired]] (p. 177)

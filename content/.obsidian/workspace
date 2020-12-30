@@ -1,33 +1,68 @@
 {
   "main": {
-    "id": "42b1723471b00cbd",
+    "id": "6663d9c20fe665e1",
     "type": "split",
     "children": [
       {
-        "id": "c483e7151a792fcb",
+        "id": "9c185139a15688d8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Reading notes/Competing Against Luck by Clayton Christensen.md",
+=======
+            "file": "Connect new notes to existing ones.md",
+>>>>>>> origin
             "mode": "source"
           }
-        }
+        },
+        "group": "23ace1e20ecbb49a"
+      },
+      {
+        "id": "02712d77b75dd3df",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Connect new notes to existing ones.md",
+            "options": {
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.9524648714093806
+            }
+          }
+        },
+        "group": "23ace1e20ecbb49a"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eafd1900aaf39dfd",
+    "id": "4a40190f6d16b2db",
     "type": "split",
     "children": [
       {
-        "id": "22d428bf0ab2e591",
+        "id": "a3b4c9c19173fe2f",
         "type": "tabs",
         "children": [
           {
-            "id": "c2677093f1100dc9",
+            "id": "ef97547cf0545bda",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +70,7 @@
             }
           },
           {
-            "id": "351ea2891317fcd0",
+            "id": "518c7d4646e1e6b7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,28 +88,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440
+    "width": 300
   },
   "right": {
-    "id": "8855dafac19d77a5",
+    "id": "71a72a53b1a8020e",
     "type": "split",
     "children": [
       {
-        "id": "8157067b9dadb863",
+        "id": "9a2065eaaa787114",
         "type": "tabs",
         "children": [
           {
-            "id": "92de8ee287530058",
+            "id": "cb3e77cff1206a7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Reading notes/Competing Against Luck by Clayton Christensen.md",
+=======
+                "file": "Connect new notes to existing ones.md",
+>>>>>>> origin
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -82,9 +121,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Reading notes/Competing Against Luck by Clayton Christensen.md",
     "Reading notes/Inspired by Marty Cagan.md",
     "Reading notes/Untitled.md",
@@ -95,5 +136,17 @@
     "Product teams have to understand the business context in order to best solve problems for the business autonomously.md",
     "Four product risks.md",
     "Product discovery.md"
+=======
+    "Connect new notes to existing ones.md",
+    "User needs have functional and emotional dimensions.md",
+    "jobs-to-be-done.md",
+    "$about.md",
+    "Four product risks.md",
+    "Usability testing.md",
+    "Reading notes/Ahrens – How to Take Smart Notes.md",
+    "note-taking.md",
+    "Read in two phases to limit wasting time and to increase knowledge.md",
+    "Write about what you read.md"
+>>>>>>> origin
   ]
 }

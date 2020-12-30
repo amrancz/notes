@@ -15,7 +15,7 @@ Often, the risks are low and teams can proceed to delivery. But when the answers
 
 Out of the four, value risk is the most important mitigate. Because [[Establishing value is more important than eliminating every usability issue or having the best performance]]. If the value isn't there, the rest doesn't matter.
 
-Usability risk is best tackled through [[Usability testing]].
+Usability risk is best tackled through [[Usability testing]]. It's the responsibility of the product designer.
 
 ---
 
