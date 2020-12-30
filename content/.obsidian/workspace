@@ -1,68 +1,33 @@
 {
   "main": {
-    "id": "6663d9c20fe665e1",
+    "id": "b8a3514eb71ea1a1",
     "type": "split",
     "children": [
       {
-        "id": "9c185139a15688d8",
+        "id": "5fea4ed071932108",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Reading notes/Competing Against Luck by Clayton Christensen.md",
-=======
-            "file": "Connect new notes to existing ones.md",
->>>>>>> origin
+            "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
             "mode": "source"
           }
-        },
-        "group": "23ace1e20ecbb49a"
-      },
-      {
-        "id": "02712d77b75dd3df",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Connect new notes to existing ones.md",
-            "options": {
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.9524648714093806
-            }
-          }
-        },
-        "group": "23ace1e20ecbb49a"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4a40190f6d16b2db",
+    "id": "9d9c50ca54f31c6e",
     "type": "split",
     "children": [
       {
-        "id": "a3b4c9c19173fe2f",
+        "id": "fa130ad39d371f33",
         "type": "tabs",
         "children": [
           {
-            "id": "ef97547cf0545bda",
+            "id": "1a5ead21de599d0a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +35,7 @@
             }
           },
           {
-            "id": "518c7d4646e1e6b7",
+            "id": "47ded03f15d13c34",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,24 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "71a72a53b1a8020e",
+    "id": "a10f0aa894d3f274",
     "type": "split",
     "children": [
       {
-        "id": "9a2065eaaa787114",
+        "id": "99118846b5bfa4b2",
         "type": "tabs",
         "children": [
           {
-            "id": "cb3e77cff1206a7c",
+            "id": "c14fd95cd59cb9af",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Reading notes/Competing Against Luck by Clayton Christensen.md",
-=======
-                "file": "Connect new notes to existing ones.md",
->>>>>>> origin
+                "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,28 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Reading notes/Competing Against Luck by Clayton Christensen.md",
-    "Reading notes/Inspired by Marty Cagan.md",
-    "Reading notes/Untitled.md",
-    "Outcomes over outputs.md",
-    "Focus on the outcome, not the output.md",
-    "product management.md",
-    "product design.md",
-    "Product teams have to understand the business context in order to best solve problems for the business autonomously.md",
-    "Four product risks.md",
-    "Product discovery.md"
-=======
-    "Connect new notes to existing ones.md",
-    "User needs have functional and emotional dimensions.md",
-    "jobs-to-be-done.md",
-    "$about.md",
-    "Four product risks.md",
-    "Usability testing.md",
     "Reading notes/Ahrens – How to Take Smart Notes.md",
+    "$Areas of interest.md",
+    "$Top of my mind.md",
+    "Zettelkasten.md",
     "note-taking.md",
-    "Read in two phases to limit wasting time and to increase knowledge.md",
-    "Write about what you read.md"
->>>>>>> origin
+    "Circular process of writing.md",
+    "Taking smart notes creates a positive feedback loop in the writing process.md",
+    "Write about what you read.md",
+    "zettelkasten.de.md",
+    "product management.md"
   ]
 }

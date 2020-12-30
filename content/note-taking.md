@@ -2,6 +2,8 @@
 title: Note-taking MOC
 ---
 
+The best starting point: [[Zettelkasten]]
+
+Some key thoughts:
 - [[Write about what you read]]
-- [[Connect new notes to existing ones]]
 - [[Read in two phases to limit wasting time and to increase knowledge]]
