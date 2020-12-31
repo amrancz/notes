@@ -16,7 +16,7 @@ Type: #book
 - Sales- or stakeholder-driven ideas are usually not the best for products
 - Deciding based on "business cases" (how much will X make vs. how much will it cost), because you cannot know early in the process.
 - Many product ideas won't work -> it's not a good idea to build out big product roadmaps based on them. And even if they do, it takes time to develop them: [[Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value]]. 
-- PM's job shouldn't be just gathering requirements and documenting them for engineers. [[202011161536 Product manager's job is to decide what to build next]]. To do their job well, [[Product managers have to have deep knowledge of customers]].
+- PM's job shouldn't be just gathering requirements and documenting them for engineers. [[2020-1116-1536 Product manager's job is to decide what to build next]]. To do their job well, [[Product managers have to have deep knowledge of customers]].
 - Engineering should be involved early in the product development process. They are one of the best sources of innovation.
 - Customer validation happens at the end of the process. The risk is at the end, way too late.
 - There's opportunity loss. Working on something nobody needs loses you time and money that you can't get back.
@@ -38,7 +38,7 @@ Type: #book
 - Three key roles of product teams are: product managers, product designers and engineers. "The holy trio".
 
 #### Product manager
-- [[202011161536 Product manager's job is to decide what to build next]] and make sure the team delivers it to customers.
+- [[2020-1116-1536 Product manager's job is to decide what to build next]] and make sure the team delivers it to customers.
 - [[Product managers have to have deep knowledge of customers]], but also data, business and market/industry.
 
 #### Product designer
