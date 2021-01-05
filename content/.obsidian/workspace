@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten.md",
+            "file": "Validate designs in proportion to usability risk.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Validate designs in proportion to usability risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +85,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Fleeting notes/Validate designs appropriately based on risk.md",
+    "Fleeting notes/Untitled.md",
     "Zettelkasten.md",
     "The main criteria for adding notes should be relevance and diversity.md",
     "Permanent notes should be concise and translated into your own words.md",
@@ -92,8 +94,6 @@
     "Permanent notes should be condense and translated into your own words.md",
     "note-taking.md",
     "Reading notes/Cagan – Inspired.md",
-    "202011161536 Product manager's job is to decide what to build next.md",
-    "2020-1231-1653.md",
-    "2020-1231-1612.md"
+    "202011161536 Product manager's job is to decide what to build next.md"
   ]
 }
