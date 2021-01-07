@@ -29,7 +29,7 @@ Zettelkasten is based on several principles:
 - Keeping the system simple.
 	- Only having a few types of notes (fleeting, literature, permanent + perhaps project-related) and adhering to these fundamental principles.
 
-
+ZK is also great for learning, because [[Actively working with information enables learning]]. The creation of notes (translating into own words) and making connections between them lead to better long-term learning.
 
 ---
 

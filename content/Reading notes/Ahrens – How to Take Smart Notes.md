@@ -78,3 +78,10 @@ These positive feedback loops are crucial for creating motivation to do all of t
 	- Working with Zettelkasten is inherently an endergonic process.
 
 In this way, [[Taking smart notes creates a positive feedback loop in the writing process]].
+
+---
+
+## Learning by reading
+
+- [[Actively working with information enables learning]]
+- The ability to think of the information you read is very important. You should be able to think about it in broader context and how it relates to other contexts as well. That's why making connections between notes in ZK is important. 

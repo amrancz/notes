@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Validate designs in proportion to usability risk.md",
+            "file": "Write about what you read.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validate designs in proportion to usability risk.md",
+                "file": "Write about what you read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Write about what you read.md",
+    "Actively working with information enables learning.md",
+    "Reading notes/Ahrens – How to Take Smart Notes.md",
+    "Zettelkasten.md",
+    "Connect new notes to existing ones.md",
+    "2021-0107-0819.md",
+    "Validate designs in proportion to usability risk.md",
     "Fleeting notes/Validate designs appropriately based on risk.md",
     "Fleeting notes/Untitled.md",
-    "Zettelkasten.md",
-    "The main criteria for adding notes should be relevance and diversity.md",
-    "Permanent notes should be concise and translated into your own words.md",
-    "Circular process of writing.md",
-    "Permanent notes should be condense and translated into your own words.md",
-    "note-taking.md",
-    "Reading notes/Cagan – Inspired.md",
-    "202011161536 Product manager's job is to decide what to build next.md"
+    "The main criteria for adding notes should be relevance and diversity.md"
   ]
 }
