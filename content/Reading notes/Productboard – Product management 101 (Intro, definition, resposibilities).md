@@ -7,7 +7,7 @@ Tags: [[product management]]
 
 ---
 
-### [[2020-1116-1536 Product manager's job is to decide what to build next]].
+### [[Product manager's job is to decide what to build next]].
 
 PM has to make sure that the feature of the product they're building is:
 - **valuable** (answers a user need – whether functional or emotional one)

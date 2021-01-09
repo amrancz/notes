@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
+            "file": "Product manager's job is to decide what to build next.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
+                "file": "Product manager's job is to decide what to build next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +85,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "2020-1116-1536 Product manager's job is to decide what to build next.md",
     "Reading notes/Ahrens – How to Take Smart Notes.md",
     "2021-0109-0841.md",
     "user research.md",
@@ -93,7 +94,6 @@
     "Zettelkasten.md",
     "2021-0109-0824.md",
     "Fleeting notes/Untitled.md",
-    "Write about what you read.md",
-    "Connect new notes to existing ones.md"
+    "Write about what you read.md"
   ]
 }
