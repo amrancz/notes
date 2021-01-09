@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Write about what you read.md",
+            "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
             "mode": "source"
           }
         }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write about what you read.md",
+                "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Write about what you read.md",
-    "Actively working with information enables learning.md",
     "Reading notes/Ahrens – How to Take Smart Notes.md",
+    "2021-0109-0841.md",
+    "user research.md",
+    "Learning best happens by connecting the new to existing knowledge.md",
+    "Actively working with information enables learning.md",
     "Zettelkasten.md",
-    "Connect new notes to existing ones.md",
-    "2021-0107-0819.md",
-    "Validate designs in proportion to usability risk.md",
-    "Fleeting notes/Validate designs appropriately based on risk.md",
+    "2021-0109-0824.md",
     "Fleeting notes/Untitled.md",
-    "The main criteria for adding notes should be relevance and diversity.md"
+    "Write about what you read.md",
+    "Connect new notes to existing ones.md"
   ]
 }

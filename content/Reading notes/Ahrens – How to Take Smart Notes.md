@@ -85,3 +85,10 @@ In this way, [[Taking smart notes creates a positive feedback loop in the writin
 
 - [[Actively working with information enables learning]]
 - The ability to think of the information you read is very important. You should be able to think about it in broader context and how it relates to other contexts as well. That's why making connections between notes in ZK is important. 
+- Writing is necessary to think systematically -> Thinking shouldn't be an internal mental process only because of the limitations of the brain (e.g. active inhibition (MacLeod, 2007))
+- Every time we try to retrieve a memory, it is reconstructed ( Is this true for facts as well, though? (needs further exploration)) -> In the context of Ahren's argument for external structure for thinking, this implies that we cannot rely on our mind to accurately remember things. Therefore, we need that external structure for serious thinking. Without it, we wouldn't be able to make all the meaningful connections with our existing knowledge. And making those connections is vital to understand and, by extension, learn.
+- One theory about memory proposes two distinct strenghts or abilities:
+	- Ability to store
+	- Ability to retrieve
+	- The real limitaiton of our brain is the ability to retrieve. Having an external structure then supports this ability because it allows us to make more connections.
+- The main idea is that [[Serious thinking requires external structure to support it]].

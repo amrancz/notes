@@ -6,6 +6,7 @@ Learning is really about actively working with the information/knowledge at hand
 - **Translating** into your own words (i.e.[[Write about what you read]])
 - Trying to **recall** the information (even if without success at first)
 - Making **connections** to existing knowledge
+	- [[Learning best happens by making connections]]
 
 This is one reason why [[Zettelkasten]] is also great for learning.
 
