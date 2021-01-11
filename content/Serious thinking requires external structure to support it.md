@@ -6,7 +6,7 @@ Thinking cannot be only a purely internal mental process because of the limitati
 
 ---
 
-Tags: [[note-taking]]
+Tags: [[note-taking]] [[Circular process of writing]]
 
 ID: 2021-0109-0841
 

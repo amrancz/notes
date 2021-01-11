@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Product manager's job is to decide what to build next.md",
+            "file": "Connect new notes to existing ones.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "45acc95b09e877e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Serious thinking requires external structure to support it.md",
             "mode": "source"
           }
         }
@@ -53,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395
   },
   "right": {
     "id": "a10f0aa894d3f274",
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product manager's job is to decide what to build next.md",
+                "file": "Connect new notes to existing ones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +96,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "2020-1116-1536 Product manager's job is to decide what to build next.md",
+    "Connect new notes to existing ones.md",
+    "Assign keywords to notes based on the context you're working in or your interests.md",
+    "Serious thinking requires external structure to support it.md",
     "Reading notes/Ahrens – How to Take Smart Notes.md",
-    "2021-0109-0841.md",
-    "user research.md",
-    "Learning best happens by connecting the new to existing knowledge.md",
-    "Actively working with information enables learning.md",
+    "2021-0111-0815.md",
+    "$Top of my mind.md",
+    "$about.md",
+    "Learning best happens by making connections.md",
     "Zettelkasten.md",
-    "2021-0109-0824.md",
-    "Fleeting notes/Untitled.md",
-    "Write about what you read.md"
+    "2020-1116-1536 Product manager's job is to decide what to build next.md"
   ]
 }

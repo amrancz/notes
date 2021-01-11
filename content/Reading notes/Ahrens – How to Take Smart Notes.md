@@ -82,6 +82,7 @@ In this way, [[Taking smart notes creates a positive feedback loop in the writin
 ---
 
 ## Learning by reading
+a.k.a how to take notes
 
 - [[Actively working with information enables learning]]
 - The ability to think of the information you read is very important. You should be able to think about it in broader context and how it relates to other contexts as well. That's why making connections between notes in ZK is important. 
@@ -92,3 +93,14 @@ In this way, [[Taking smart notes creates a positive feedback loop in the writin
 	- Ability to retrieve
 	- The real limitaiton of our brain is the ability to retrieve. Having an external structure then supports this ability because it allows us to make more connections.
 - The main idea is that [[Serious thinking requires external structure to support it]].
+
+## Develop ideas
+- Sequences of notes make up the real support for later writing.
+- Because the slip-box is a thinking tool, it doesn't need to be complete (in a sense like encyclopedeas need to be). Gaps should only be filled when they emerge in the later stage of writing a bigger text.
+- Indices in ZK should serve as entry points, rather than collecting all notes that belong to a keyword/tag/topic – that would defeat the purpose of it. They should enable us to dive quickly to a specific note and then discover more notes through the connections.
+- Assign keywords to notes based on the context you're working in or your interests. Assigning keywords based on the note alone doesn't create good future opportunities to stumble upon it in the context you need.
+	- The best keywords usually don't appear explicitly in the note. They require further thinking to define – it's part of elaborating on the text, therefore very important to do!
+- Two most important types of connections in ZK: 
+	- 1) "Overview" notes of specific topics that serve as an entry point. Usually needed when a topic develops enough. Take great care for what you include in this – it defines the topic based on your current understanding. But as the understanding develops, so should such note, too.
+	- 2) Regular note-to-note connections. These can be to seemingly unrelated notes as well (that's when the most surprising ideas can emerge from, eventually!)
+- When making connections, actually go through the slip-box, not just your memory! In that way, you avoid imagined connections and have only meaningful ones.
