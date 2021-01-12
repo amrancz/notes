@@ -12,7 +12,7 @@ The concept is very similar (if not identical) to what Tanner Christensen calls 
 
 ---
 
-Tags: [[product management]]
+Tags: [[product management]] [[storytelling in product design]]
 
 ID: 2021-0112-2132
 
