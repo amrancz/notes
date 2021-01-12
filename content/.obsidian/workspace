@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5fea4ed071932108",
+        "id": "66a68950f2be1581",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Connect new notes to existing ones.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "45acc95b09e877e2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Serious thinking requires external structure to support it.md",
+            "file": "Product vision describes the aspirational future state of a product.md",
             "mode": "source"
           }
         }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connect new notes to existing ones.md",
+                "file": "Product vision describes the aspirational future state of a product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Product vision describes the aspirational future state of a product.md",
+    "Fleeting notes/Product narrative is necessary for good design.md",
+    "Product strategy defines the path towards the product vision.md",
+    "Fleeting notes/Untitled.md",
+    "2021-0112-2132.md",
+    "Reading notes/Cagan – Inspired.md",
+    "Reading notes/Christensen – Competing Against Luck.md",
+    "Reading notes/Müller, Rausch – Menus Metaphors and Materials.md",
     "Connect new notes to existing ones.md",
-    "Assign keywords to notes based on the context you're working in or your interests.md",
-    "Serious thinking requires external structure to support it.md",
-    "Reading notes/Ahrens – How to Take Smart Notes.md",
-    "2021-0111-0815.md",
-    "$Top of my mind.md",
-    "$about.md",
-    "Learning best happens by making connections.md",
-    "Zettelkasten.md",
-    "2020-1116-1536 Product manager's job is to decide what to build next.md"
+    "Assign keywords to notes based on the context you're working in or your interests.md"
   ]
 }

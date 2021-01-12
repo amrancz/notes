@@ -53,3 +53,8 @@ Product innovation shouldn't be up to luck.
     When the need could be only satisfied by products of the same category.
 
     Jobs are on a higher level of abstraction.
+	
+
+---
+
+Tags: [[jobs-to-be-done]]
