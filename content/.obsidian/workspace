@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5fea4ed071932108",
+        "id": "66a68950f2be1581",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
             "mode": "source"
           }
@@ -22,6 +23,9 @@
           "type": "markdown",
           "state": {
             "file": "Serious thinking requires external structure to support it.md",
+=======
+            "file": "Product vision describes the aspirational future state of a product.md",
+>>>>>>> 773a1bc45602c49cdfcf83fe63d782e37c5709c2
             "mode": "source"
           }
         }
@@ -80,7 +84,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
+=======
+                "file": "Product vision describes the aspirational future state of a product.md",
+>>>>>>> 773a1bc45602c49cdfcf83fe63d782e37c5709c2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +104,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Reading notes/Ahrens – How to Take Smart Notes.md",
     "Trying to achieve immediately intuitive UI is problematic in complex products.md",
     "Product intuition needs to be calibrated through research.md",
@@ -106,5 +115,17 @@
     "Assign keywords to notes based on the context you're working in or your interests.md",
     "Serious thinking requires external structure to support it.md",
     "2021-0111-0815.md"
+=======
+    "Product vision describes the aspirational future state of a product.md",
+    "Fleeting notes/Product narrative is necessary for good design.md",
+    "Product strategy defines the path towards the product vision.md",
+    "Fleeting notes/Untitled.md",
+    "2021-0112-2132.md",
+    "Reading notes/Cagan – Inspired.md",
+    "Reading notes/Christensen – Competing Against Luck.md",
+    "Reading notes/Müller, Rausch – Menus Metaphors and Materials.md",
+    "Connect new notes to existing ones.md",
+    "Assign keywords to notes based on the context you're working in or your interests.md"
+>>>>>>> 773a1bc45602c49cdfcf83fe63d782e37c5709c2
   ]
 }
