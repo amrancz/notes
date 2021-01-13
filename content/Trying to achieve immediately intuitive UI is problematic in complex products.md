@@ -8,4 +8,4 @@ That makes sense for websites, e-commerce and simple apps. But it's problematic 
 
 ---
 
-Tags: [[product design]]
+Tags: [[product design]] [[intuitive UIs]]

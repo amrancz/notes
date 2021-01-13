@@ -104,3 +104,7 @@ a.k.a how to take notes
 	- 1) "Overview" notes of specific topics that serve as an entry point. Usually needed when a topic develops enough. Take great care for what you include in this – it defines the topic based on your current understanding. But as the understanding develops, so should such note, too.
 	- 2) Regular note-to-note connections. These can be to seemingly unrelated notes as well (that's when the most surprising ideas can emerge from, eventually!)
 - When making connections, actually go through the slip-box, not just your memory! In that way, you avoid imagined connections and have only meaningful ones.
+
+- Intuition isn't opposed to rationality. It's the result of a lot of experience that we can unconsciously draw on. It allows us to have a hunch on what's the best decision or next step without consciously thinking about it. But that doesn't mean it's necessarily irrational, it actually builds on a lot of previous experience. (Ahrens references himself from 2014 here).
+	- How might this relate to designing intuitive UIs?
+- Innovation is typically the result of taking an extra small step on top of lots of previous work. It's rarelly a big breakthrough. In this context, comparing notes in the slip-box helps us to spot differences between similar things and find connections between seemingly different things. That enables to find novel ideas and innovate.

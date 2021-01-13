@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Connect new notes to existing ones.md",
+            "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connect new notes to existing ones.md",
+                "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Reading notes/Ahrens – How to Take Smart Notes.md",
+    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
+    "Product intuition needs to be calibrated through research.md",
+    "Survivorship bias.md",
     "Connect new notes to existing ones.md",
+    "About half of product ideas won't work.md",
+    "2021-0113-0844.md",
     "Assign keywords to notes based on the context you're working in or your interests.md",
     "Serious thinking requires external structure to support it.md",
-    "Reading notes/Ahrens – How to Take Smart Notes.md",
-    "2021-0111-0815.md",
-    "$Top of my mind.md",
-    "$about.md",
-    "Learning best happens by making connections.md",
-    "Zettelkasten.md",
-    "2020-1116-1536 Product manager's job is to decide what to build next.md"
+    "2021-0111-0815.md"
   ]
 }
