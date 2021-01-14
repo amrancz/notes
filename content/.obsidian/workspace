@@ -1,31 +1,16 @@
 {
   "main": {
-    "id": "b8a3514eb71ea1a1",
+    "id": "cad477a12718249c",
     "type": "split",
     "children": [
       {
-        "id": "66a68950f2be1581",
+        "id": "2a74e030a611ab81",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "45acc95b09e877e2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Serious thinking requires external structure to support it.md",
-=======
-            "file": "Product vision describes the aspirational future state of a product.md",
->>>>>>> 773a1bc45602c49cdfcf83fe63d782e37c5709c2
+            "file": "Fleeting notes/Intuition is the result of accumulated experience.md",
             "mode": "source"
           }
         }
@@ -34,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9d9c50ca54f31c6e",
+    "id": "e3bd15d80855e95a",
     "type": "split",
     "children": [
       {
-        "id": "fa130ad39d371f33",
+        "id": "e45901b9564ea6e1",
         "type": "tabs",
         "children": [
           {
-            "id": "1a5ead21de599d0a",
+            "id": "52062050ff3cb1ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +35,7 @@
             }
           },
           {
-            "id": "47ded03f15d13c34",
+            "id": "581f749725b15997",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,32 +53,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 300
   },
   "right": {
-    "id": "a10f0aa894d3f274",
+    "id": "d17f50facc97c927",
     "type": "split",
     "children": [
       {
-        "id": "99118846b5bfa4b2",
+        "id": "378ef1c7df0bb731",
         "type": "tabs",
         "children": [
           {
-            "id": "c14fd95cd59cb9af",
+            "id": "9e85844fad7db51c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Reading notes/Ahrens – How to Take Smart Notes.md",
-=======
-                "file": "Product vision describes the aspirational future state of a product.md",
->>>>>>> 773a1bc45602c49cdfcf83fe63d782e37c5709c2
+                "file": "Fleeting notes/Intuition is the result of accumulated experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -101,31 +82,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Reading notes/Ahrens – How to Take Smart Notes.md",
-    "Trying to achieve immediately intuitive UI is problematic in complex products.md",
-    "Product intuition needs to be calibrated through research.md",
-    "Survivorship bias.md",
-    "Connect new notes to existing ones.md",
-    "About half of product ideas won't work.md",
-    "2021-0113-0844.md",
-    "Assign keywords to notes based on the context you're working in or your interests.md",
-    "Serious thinking requires external structure to support it.md",
-    "2021-0111-0815.md"
-=======
-    "Product vision describes the aspirational future state of a product.md",
+    "Fleeting notes/Intuition is the result of accumulated experience.md",
+    "Fleeting notes/Visual design skills are not the most important in product design.md",
     "Fleeting notes/Product narrative is necessary for good design.md",
-    "Product strategy defines the path towards the product vision.md",
-    "Fleeting notes/Untitled.md",
-    "2021-0112-2132.md",
-    "Reading notes/Cagan – Inspired.md",
-    "Reading notes/Christensen – Competing Against Luck.md",
-    "Reading notes/Müller, Rausch – Menus Metaphors and Materials.md",
-    "Connect new notes to existing ones.md",
-    "Assign keywords to notes based on the context you're working in or your interests.md"
->>>>>>> 773a1bc45602c49cdfcf83fe63d782e37c5709c2
+    "Intuition is the result of accumulated experience.md",
+    "Reading notes/Ahrens – How to Take Smart Notes.md",
+    "2021-0114-0903.md",
+    "Availability heuristic.md",
+    "2021-0114-0857.md"
   ]
 }
