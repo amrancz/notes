@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zeigarnik effect.md",
+            "file": "Reading notes/Anderson, Fast – Figure It Out.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 377
   },
   "right": {
     "id": "d17f50facc97c927",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeigarnik effect.md",
+                "file": "Reading notes/Anderson, Fast – Figure It Out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Reading notes/Anderson, Fast – Figure It Out.md",
+    "templates/perm-template.md",
+    "Reading notes/Productboard – Product management 101 (Intro, definition, resposibilities).md",
+    "Learning best happens by making connections.md",
+    "Reading notes/Ahrens – How to Take Smart Notes.md",
+    "Reading notes/Untitled.md",
     "2021-0117-1120.md",
     "2021-0117-1116.md",
     "Autonomy at work is important for productivity and happiness.md",
-    "2021-0115-1729.md",
-    "Write about what you read.md",
-    "Fleeting notes/Intuition is the result of accumulated experience.md",
-    "Fleeting notes/Visual design skills are not the most important in product design.md",
-    "Fleeting notes/Product narrative is necessary for good design.md",
-    "Intuition is the result of accumulated experience.md",
-    "Reading notes/Ahrens – How to Take Smart Notes.md"
+    "2021-0115-1729.md"
   ]
 }

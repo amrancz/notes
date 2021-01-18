@@ -10,7 +10,7 @@ That's why [[Zettelkasten]] really supports learning – the key is the act of [
 
 ---
 
-Tags:
+Tags: [[understanding]]
 
 ID: 2021-0109-0824
 
