@@ -8,6 +8,8 @@ That creation happens through associations, visual representations and interacti
 
 It is the responsibility of the information creator/presenter to make it as understandable as possible. But it's also the responsibility of the consumer to actively engage with it. The creator cannot make any information understandable for everyone because everyone is different and has different needs about what to do with the information.
 
+This idea is very close to [[Actively working with information enables learning]]
+
 ---
 
 Tags: [[understanding]]

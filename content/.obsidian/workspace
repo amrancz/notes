@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Understanding requires more work than passive consumption of information.md",
+            "file": "Actively working with information enables learning.md",
             "mode": "source"
           }
         }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understanding requires more work than passive consumption of information.md",
+                "file": "Actively working with information enables learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +87,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Actively working with information enables learning.md",
     "2021-0119-0858.md",
     "Understanding requires more work than passive consumption of information.md",
     "Reading notes/Anderson, Fast – Figure It Out.md",
@@ -94,7 +96,6 @@
     "Learning best happens by making connections.md",
     "Reading notes/Ahrens – How to Take Smart Notes.md",
     "Reading notes/Untitled.md",
-    "2021-0117-1120.md",
-    "2021-0117-1116.md"
+    "2021-0117-1120.md"
   ]
 }
