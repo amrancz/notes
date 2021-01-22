@@ -14,7 +14,7 @@ Writing notes should be followed by: [[Connect new notes to existing ones]]
 
 ---
 
-Tags: [[note-taking]] [[building personal knowledge]]
+Tags: [[note-taking]] [[building personal knowledge]] [[writing]]
 
 ### References
 Andy Matuschak: Write about what you read https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo

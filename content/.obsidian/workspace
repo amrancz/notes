@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Actively working with information enables learning.md",
+            "file": "Embodied cognition.md",
             "mode": "source"
           }
         }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actively working with information enables learning.md",
+                "file": "Embodied cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +82,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "Embodied cognition.md",
+    "Action isn't a result of thinking. It's a medium for thinking..md",
     "Actively working with information enables learning.md",
-    "2021-0119-0858.md",
-    "Understanding requires more work than passive consumption of information.md",
+    "2021-0122-0853.md",
+    "Serious thinking requires external structure to support it.md",
+    "building personal knowledge.md",
+    "Write about what you read.md",
+    "2021-0122-0840.md",
     "Reading notes/Anderson, Fast – Figure It Out.md",
-    "templates/perm-template.md",
-    "Reading notes/Productboard – Product management 101 (Intro, definition, resposibilities).md",
-    "Learning best happens by making connections.md",
-    "Reading notes/Ahrens – How to Take Smart Notes.md",
-    "Reading notes/Untitled.md",
-    "2021-0117-1120.md"
+    "Circular process of writing.md"
   ]
 }

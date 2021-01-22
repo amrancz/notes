@@ -12,7 +12,7 @@ This is one reason why [[Zettelkasten]] is also great for learning.
 
 ---
 
-Tags: [[building personal knowledge]] [[note-taking]] [[understanding]]
+Tags: [[note-taking]] [[understanding]] [[writing]]
 
 ID: 2021-0107-0819
 
