@@ -2,7 +2,7 @@
 title: Metaphors can be a double-edged sword
 ---
 
-Using a metaphor to describe a concept of metaphors, very meta.
+(Using a metaphor to describe a concept of metaphors, very meta.)
 
 Metaphors can greatly help with creating understanding because [[Associations between concepts is thinking]].
 
