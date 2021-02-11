@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stories are a powerful way of creating understanding.md",
+            "file": "$Top of my mind.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "active",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories are a powerful way of creating understanding.md",
+                "file": "$Top of my mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "$Top of my mind.md",
+    "Visual representations trigger associations.md",
+    "Thinking is mostly unconscious.md",
+    "2021-0211-0736.md",
+    "Actively working with information enables learning.md",
     "Stories are a powerful way of creating understanding.md",
     "storytelling in product design.md",
     "2021-0208-0836.md",
     "Metaphors can be a double-edged sword.md",
-    "Zeigarnik effect.md",
-    "2021-0128-1030.md",
-    "Associations between concepts is thinking.md",
-    "Brain matches sensory information to existing patterns.md",
-    "Understanding is shaped by all kinds of sensory information.md",
-    "Old designs do not become obsolete with new technologies.md"
+    "Zeigarnik effect.md"
   ]
 }
