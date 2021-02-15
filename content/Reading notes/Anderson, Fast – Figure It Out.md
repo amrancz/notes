@@ -23,3 +23,8 @@ Anderson, Fast (2020). Figure It Out: Getting From Information To Understanding
 - Our bodies modify and transform our preceptions. 
 - We think by doing. [[Action isn't a result of thinking. It's a medium for thinking.]]
 - Physical actions influence our ability to understand information.
+
+
+### Caution about using metaphors and analogies
+Associations can lead us to better understand something unknown but they can also lead us astray. Nothing has one perfect metaphor or analogy. Different metaphors trigger different associations. Some help us understand, others might lead to false assumptions and incorrect reasoning. In those cases, we can react by several things:
+- Use first principles thinking. 
