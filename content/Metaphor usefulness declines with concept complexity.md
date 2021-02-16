@@ -8,7 +8,7 @@ The more complex the topic, however, the more dangerous the usage of a single me
 
 As one metaphor triggers only a particular set of associations, it cannot possibly capture all the useful and correct associations for a complex concept. It can even trigger associations leading us to have false assumptions or faulty reasoning.
 
-In that case, it's necessary to employ [[First principles thinking]], be very much aware of the metaphor/analogy used, and bring in more metaphors for different points of view.
+In that case, it's necessary to employ [[First principles thinking]], be very much aware of the metaphor/analogy used, and bring in more metaphors for different points of view ([[Plurality of perspectives create better understanding]])
 
 ---
 
