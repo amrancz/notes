@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mental models in design.md",
+            "file": "Vision is the dominant sense.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental models in design.md",
+                "file": "Vision is the dominant sense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "2021-0217-0831.md",
-    "Plurality of perspectives create better understanding.md",
-    "Metaphor usefulness declines with concept complexity.md",
-    "2021-0216-0822.md",
-    "First principles thinking.md",
-    "Metaphor usefulnes declines with concept complexity.md",
-    "Metaphors can be a double-edged sword.md",
-    "2021-0215-0826.md",
-    "Reading notes/Anderson, Fast – Figure It Out.md",
-    "$Top of my mind.md"
+    "Vision is the dominant sense.md",
+    "Pre-attentive visual property.md",
+    "Understanding is about recognizing patterns.md",
+    "Vision is a dominant sense.md",
+    "2021-0223-0820.md",
+    "Usage of common and familiar interaction or visual patterns is very important to make a UI understandable.md",
+    "Mental models in design.md",
+    "2021-0223-0802.md",
+    "understanding.md",
+    "Plurality of perspectives create better understanding.md"
   ]
 }
