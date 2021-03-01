@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Validate designs in proportion to usability risk.md",
+            "file": "Establish willingness to pay early in the product development process.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validate designs in proportion to usability risk.md",
+                "file": "Establish willingness to pay early in the product development process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Establish willingness to pay early in the product development process.md",
+    "Segment customers around their needs and WTP.md",
+    "Acceptable-expensive-prohibitive pricing points.md",
+    "2021-0301-2200.md",
+    "Establish willingness to pay early in the product development process 1.md",
+    "2021-0301-2143.md",
     "Validate designs in proportion to usability risk.md",
     "Just-in-time design.md",
     "2021-0301-0836.md",
-    "Reading notes/Anderson, Fast – Figure It Out.md",
-    "Pre-attentive visual property.md",
-    "Understanding is about recognizing patterns.md",
-    "Vision is the dominant sense.md",
-    "First principles thinking.md",
-    "$Top of my mind.md",
-    "user interface design.md"
+    "Reading notes/Anderson, Fast – Figure It Out.md"
   ]
 }
