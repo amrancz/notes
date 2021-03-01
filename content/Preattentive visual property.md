@@ -2,7 +2,7 @@
 title: Preattentive visual property
 ---
 
-Pre-attentive visual properties of objects are processed in our brain before we can consciously think about them. This usually happens in <500ms, often in ~200ms.
+Pre-attentive visual properties of objects are processed in our brain before we can consciously think about them. This usually happens in  under 500ms, often in ~200ms.
 
 Processing these properties so quickly helps us recognize patterns very fast and understand things without making conscious effort. This is also because [[Vision is the dominant sense]]
 
