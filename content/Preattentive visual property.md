@@ -1,5 +1,5 @@
 ---
-title: Pre-attentive visual property
+title: Preattentive visual property
 ---
 
 Pre-attentive visual properties of objects are processed in our brain before we can consciously think about them. This usually happens in <500ms, often in ~200ms.

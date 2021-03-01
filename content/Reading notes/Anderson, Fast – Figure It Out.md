@@ -33,6 +33,6 @@ Associations can lead us to better understand something unknown but they can als
 ### Visual properties (ch. 7)
 - Some visual properties are better suited to represent generic information (e.g. color intensity or size/area for getting a general sense of something) than precise, quantitative information (e.g. length or spatial position for precisely comparing information)
 - Be mindful of what visual element you use based on what exactly you need to communicate.
-	- See [[Pre-attentive visual property]] for more
+	- See [[Preattentive visual property]] for more
 - For showing sequence, these properties can be useful: Scale (size), Color intensity, line thickness and orientation.
 - Be mindful of the scalability of the used property: e.g. it's difficult to discern between 10 line widths vs. just 3; might be easier with color intensity
