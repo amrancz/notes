@@ -1,5 +1,5 @@
 ---
-title: Just-in-time design
+title: Just in time design
 ---
 
 There are benefits to providing design specifications just in time for development.

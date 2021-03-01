@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Preattentive visual property.md",
+            "file": "Just in time design.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preattentive visual property.md",
+                "file": "Just in time design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +85,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Just-in-time design.md",
     "Pre-attentive visual property.md",
     "$Top of my mind.md",
     "Establish willingness to pay early in the product development process.md",
@@ -93,7 +94,6 @@
     "2021-0301-2200.md",
     "Establish willingness to pay early in the product development process 1.md",
     "2021-0301-2143.md",
-    "Validate designs in proportion to usability risk.md",
-    "Just-in-time design.md"
+    "Validate designs in proportion to usability risk.md"
   ]
 }
