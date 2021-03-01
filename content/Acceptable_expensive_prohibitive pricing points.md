@@ -1,5 +1,5 @@
 ---
-title: Acceptable-expensive-prohibitive pricing points
+title: Acceptable, expensive and prohibitive pricing points
 ---
 
 There are usually three pricing points:

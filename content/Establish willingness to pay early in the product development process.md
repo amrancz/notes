@@ -7,7 +7,7 @@ In order to do that, you must:
 1) talk to customers to learn about their needs or problems to solve -> then [[Segment customers around their needs and WTP]]
 2) talk to customers about the price they're willing to pay for a product that addresses their needs or solves their problems
 
-One way of researching willingness to pay is to ask about [[Acceptable-expensive-prohibitive pricing points]].
+One way of researching willingness to pay is to ask about [[Acceptable_expensive_prohibitive pricing points]].
 
 ---
 
