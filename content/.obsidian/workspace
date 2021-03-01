@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Establish willingness to pay early in the product development process.md",
+            "file": "$Top of my mind.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Establish willingness to pay early in the product development process.md",
+                "file": "$Top of my mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +85,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "$Top of my mind.md",
     "Establish willingness to pay early in the product development process.md",
     "Segment customers around their needs and WTP.md",
     "Acceptable-expensive-prohibitive pricing points.md",
@@ -93,7 +94,6 @@
     "2021-0301-2143.md",
     "Validate designs in proportion to usability risk.md",
     "Just-in-time design.md",
-    "2021-0301-0836.md",
-    "Reading notes/Anderson, Fast – Figure It Out.md"
+    "2021-0301-0836.md"
   ]
 }
