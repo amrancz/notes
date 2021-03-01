@@ -25,6 +25,8 @@ Form includes:
 -   Spatial grouping
 -   Spatial orientation
 
+There's a nice table of different visual properties with suggestion on their best type of use: https://poetpainter.com/visual-encodings.pdf
+
 ---
 
 Tags: [[understanding]] [[Gestalt theory in design]] [[visual design]]
@@ -34,3 +36,4 @@ ID: 2021-0223-0820
 References:
 - ['Preattentive Visual Properties and How to Use Them in Information Visualization' by Integration Design](https://www.interaction-design.org/literature/article/preattentive-visual-properties-and-how-to-use-them-in-information-visualization)
 - Colin Ware. _Information Visualization: Perception for Design_. Morgan Kaufmann, San Francisco, CA, 2nd edition, 2004.
+- https://poetpainter.com/visual-encodings.pdf

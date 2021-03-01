@@ -20,3 +20,4 @@ Tags: [[understanding]] [[design patterns]]
 ID: 2021-0223-0802
 
 References:
+- [[Anderson, Fast – Figure It Out]] (p. 130)

@@ -2,7 +2,7 @@
 title: Vision is the dominant sense
 ---
 
-Vision dominates between people's senses. We register the most information through vision.
+Vision dominates between people's senses. We register the most information through vision (orders of magnitude more than other senses).
 
 Pattern recognition happens fastest through vision. (see [[Pre-attentive visual property]])
 

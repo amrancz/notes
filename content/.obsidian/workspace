@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vision is the dominant sense.md",
+            "file": "Validate designs in proportion to usability risk.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision is the dominant sense.md",
+                "file": "Validate designs in proportion to usability risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Vision is the dominant sense.md",
+    "Validate designs in proportion to usability risk.md",
+    "Just-in-time design.md",
+    "2021-0301-0836.md",
+    "Reading notes/Anderson, Fast – Figure It Out.md",
     "Pre-attentive visual property.md",
     "Understanding is about recognizing patterns.md",
-    "Vision is a dominant sense.md",
-    "2021-0223-0820.md",
-    "Usage of common and familiar interaction or visual patterns is very important to make a UI understandable.md",
-    "Mental models in design.md",
-    "2021-0223-0802.md",
-    "understanding.md",
-    "Plurality of perspectives create better understanding.md"
+    "Vision is the dominant sense.md",
+    "First principles thinking.md",
+    "$Top of my mind.md",
+    "user interface design.md"
   ]
 }
