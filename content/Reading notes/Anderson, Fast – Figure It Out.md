@@ -35,4 +35,5 @@ Associations can lead us to better understand something unknown but they can als
 - Be mindful of what visual element you use based on what exactly you need to communicate.
 	- See [[Preattentive visual property]] for more
 - For showing sequence, these properties can be useful: Scale (size), Color intensity, line thickness and orientation.
-- Be mindful of the scalability of the used property: e.g. it's difficult to discern between 10 line widths vs. just 3; might be easier with color intensity
+- Be mindful of the scalability of the used property: e.g. it's difficult to discern between 10 line widths vs. just 3; or between similar colors.
+- Visual encodings can be used to represent: quant or qual information, sequence, or categories.
