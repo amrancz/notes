@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2a74e030a611ab81",
+        "id": "b2b34541f7023451",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal productivity.md",
+            "file": "Believing that willpower is abundant leads to having more of it.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal productivity.md",
+                "file": "Believing that willpower is abundant leads to having more of it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Believing that willpower is abundant leads to having more of it.md",
+    "Fleeting notes/Intuition is the result of accumulated experience.md",
+    "Zeigarnik effect.md",
     "personal productivity.md",
-    "Internal distractions are caused by the desire to escape discomfort.md",
     "Reading notes/Eyal – Indistractable.md",
-    "2021-0304-0820.md",
-    "Reading notes/Anderson, Fast – Figure It Out.md",
-    "Reading notes/Untitled.md",
-    "Gestalt principles explain how people visually perceive relationships between objects.md",
-    "Understanding is about recognizing patterns.md",
-    "2021-0302-0812.md",
-    "Preattentive visual property.md"
+    "2021-0311-0819.md",
+    "Internal distractions are caused by the desire to escape discomfort.md",
+    "Time management is pain management.md",
+    "Preattentive visual property.md",
+    "Gestalt principles explain how people visually perceive relationships between objects.md"
   ]
 }
