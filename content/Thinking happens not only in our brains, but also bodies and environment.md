@@ -6,7 +6,7 @@ Anderson and Fast argue in their book that "understanding is a function of brain
 
 We use not just our brain, but also our bodies and environment to think (and do so better, faster, more efficiently).
 
-This leads to the idea that [[Serious thinking requires external structure to support it]]
+This leads to the idea that [[External structures support thinking]]
 
 ---
 

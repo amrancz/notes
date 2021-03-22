@@ -52,3 +52,7 @@ Associations can lead us to better understand something unknown but they can als
 - People associate spatial concepts with meaning (e.g. good/valuable is up etc.)
 	- Some associations are embodied (rooted in our biology, how we interact with the world through our bodies)
 	- Other associations are cultural (e.g. meaning of left-to-right order in West vs. RTL in Arab culture)
+- Circular arrangements represent continuous, repetitive cycles with no fundamental changes (e.g. clock representing time)
+- We better (more easily and reliably) estimate lengths than areas or volumes.
+- By using space to hold information (off-loading info to it), we reduce our individual cost of understanding (by having to rely less on memory).
+

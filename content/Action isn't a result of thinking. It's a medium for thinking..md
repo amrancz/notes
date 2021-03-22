@@ -8,7 +8,7 @@ That's why the body is a key player in creating understanding. This stems from a
 
 This might help explain why "writing is thinking".
 
-Relates to: [[Serious thinking requires external structure to support it]] – external structure allows to physically interact with it to support thinking.
+Relates to: [[External structures support thinking]] – external structure allows to physically interact with it to support thinking.
 
 ---
 

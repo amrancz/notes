@@ -92,7 +92,7 @@ a.k.a how to take notes
 	- Ability to store
 	- Ability to retrieve
 	- The real limitaiton of our brain is the ability to retrieve. Having an external structure then supports this ability because it allows us to make more connections.
-- The main idea is that [[Serious thinking requires external structure to support it]].
+- The main idea is that [[External structures support thinking]].
 
 ## Develop ideas
 - Sequences of notes make up the real support for later writing.
