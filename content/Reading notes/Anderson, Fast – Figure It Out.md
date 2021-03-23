@@ -56,3 +56,6 @@ Associations can lead us to better understand something unknown but they can als
 - We better (more easily and reliably) estimate lengths than areas or volumes.
 - By using space to hold information (off-loading info to it), we reduce our individual cost of understanding (by having to rely less on memory).
 
+- There's a universal pattern behind all visual models: Objects Placed into Territories
+	- Those are three categories of visual elements and properties that allow us to communicate information via visual representations.
+	- 

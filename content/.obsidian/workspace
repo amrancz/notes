@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Visual models help with understanding abstract concepts.md",
+            "file": "Placing objects in space reflects our understanding of a given concept.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual models help with understanding abstract concepts.md",
+                "file": "Placing objects in space reflects our understanding of a given concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,19 +82,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Visual models help with understanding abstract concepts.md",
-    "External structures support thinking.md",
-    "Thinking happens not only in our brains, but also bodies and environment.md",
-    "Serious thinking requires external structure to support it.md",
-    "2021-0322-0647.md",
+    "Placing objects in space reflects our understanding of a given concept.md",
+    "mental models.md",
+    "Mental models in design.md",
+    "Visual models are \"Objects Placed into Territories\".md",
+    "Visual representations trigger associations.md",
+    "2021-0323-0723.md",
     "Reading notes/Anderson, Fast – Figure It Out.md",
-    "personal productivity.md",
-    "Internal distractions are caused by the desire to escape discomfort.md",
-    "Gestalt principles explain how people visually perceive relationships between objects.md",
-    "In customer interviews, talk about their life instead of your ideas.md"
+    "Visual models help with understanding abstract concepts.md",
+    "2021-0323-0720.md",
+    "Thinking happens not only in our brains, but also bodies and environment.md"
   ]
 }

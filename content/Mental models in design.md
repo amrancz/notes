@@ -8,7 +8,7 @@ It's really a **set of concepts we associate with something**: *e.g. seeing a gl
 
 Different people can have very different mental models about the same thing.
 
-Because [[Thinking is mostly unconscious]], so are mental models. People are not necessarily aware of the models they hold about stuff.
+Because [[Thinking is mostly unconscious]], so are mental models. People are not necessarily aware of the models they hold about stuff. However, these models might be revealed via [[Placing objects in space reflects our understanding of a given concept]].
 
 In digital design, we usually leverage widespread mental models (often taking them even for granted) – e.g. the understanding how a text field works.
 
@@ -22,7 +22,7 @@ The term "mental model" is often used very differently: second, heavily misused,
 
 ---
 
-Tags: [[design psychology]] [[intuitive UIs]]
+Tags: [[design psychology]] [[intuitive UIs]] [[user research]]
 
 ID: 2021-0217-0831
 
