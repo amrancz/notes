@@ -1,5 +1,5 @@
 ---
-title: "Evaluate", not "validate" problems/ideas
+title: "Evaluate" not "validate" problems/ideas
 ---
 
 We often say "to validate" a problem or an idea. This language smells of [[Confirmation bias]].
