@@ -8,7 +8,7 @@ This is the idea that powers the method of [[Card sorting]] in user research.
 
 Placing things in space reveals how we think about the categories, relationships etc.: by revealing the "territories" (see [[Visual models are "Objects Placed into Territories"]]).
 
-Could this idea be the key to reveal mental models during user research. (see [[Mental models in design]])
+Could this idea be the key to reveal mental models during user research. (see [[Mental models in design]]).
 
 ---
 

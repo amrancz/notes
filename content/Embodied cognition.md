@@ -8,7 +8,7 @@ Embodied cognition says that the body shapes our mind and our thinking. Our thin
 
 It's still a theory, though, and hasn't been fully confirmed to be the ultimate truth about the nature of the mind.
 
-Related: [[Action isn't a result of thinking. It's a medium for thinking.]]
+Related: [[Interaction is part of thinking]]
 
 ---
 

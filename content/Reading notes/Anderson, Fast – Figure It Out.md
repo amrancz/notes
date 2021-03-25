@@ -21,7 +21,7 @@ Anderson, Fast (2020). Figure It Out: Getting From Information To Understanding
 - [[Understanding requires more work than passive consumption of information]]
 
 - Our bodies modify and transform our preceptions. 
-- We think by doing. [[Action isn't a result of thinking. It's a medium for thinking.]]
+- We think by doing. [[Interaction is part of thinking]]
 - Physical actions influence our ability to understand information.
 
 
@@ -58,4 +58,7 @@ Associations can lead us to better understand something unknown but they can als
 
 - There's a universal pattern behind all visual models: Objects Placed into Territories
 	- Those are three categories of visual elements and properties that allow us to communicate information via visual representations.
-	- 
+
+
+### Chapter 10: 
+- Interacting is thinking. Not just the result of it. That's what the idea of [[Embodied cognition]] is about.

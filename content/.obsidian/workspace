@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "33be4397da45be1c",
+        "id": "aaf67819ebf538f5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Placing objects in space reflects our understanding of a given concept.md",
+            "file": "$Top of my mind.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Placing objects in space reflects our understanding of a given concept.md",
+                "file": "$Top of my mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,18 +82,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Placing objects in space reflects our understanding of a given concept.md",
-    "mental models.md",
-    "Mental models in design.md",
-    "Visual models are \"Objects Placed into Territories\".md",
-    "Visual representations trigger associations.md",
-    "2021-0323-0723.md",
+    "$Top of my mind.md",
+    "Interaction is part of thinking.md",
+    "Action isn't a result of thinking. It's a medium for thinking..md",
+    "Embodied cognition.md",
     "Reading notes/Anderson, Fast – Figure It Out.md",
-    "Visual models help with understanding abstract concepts.md",
-    "2021-0323-0720.md",
-    "Thinking happens not only in our brains, but also bodies and environment.md"
+    "Placing objects in space reflects our understanding of a given concept.md",
+    "Product teams should prioritize opportunities, not solutions.md",
+    "Visual models are \"Objects Placed into Territories\".md",
+    "Product managers have to have deep knowledge of customers.md",
+    "Product teams need context in order to best solve problems for the business autonomously.md"
   ]
 }

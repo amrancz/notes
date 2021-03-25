@@ -1,5 +1,5 @@
 ---
-title: Product teams context in order to best solve problems for the business autonomously
+title: Product teams need context in order to best solve problems for the business autonomously
 ---
 
 
