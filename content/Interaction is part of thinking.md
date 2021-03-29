@@ -11,7 +11,7 @@ This stems from a new view of the mind called [[Embodied cognition]].
 Interaction in this sense isn't *action, then reaction*. It's tightly coupled together.
 And we can distinguish between two types of actions:
 – pragmatic: it either moves us closer to a specific goal, or further away from it (i.e. mistake)
-– epistemic: action that's done to create understanding or knowledge
+– epistemic: action that's done to create understanding or knowledge (see [[Epistemic actions]])
 
 It's the epistemic actions that help us think.
 We don't always act towards a goal; often we act to think and understand.
