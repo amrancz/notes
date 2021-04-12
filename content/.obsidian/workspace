@@ -6,11 +6,10 @@
       {
         "id": "aaf67819ebf538f5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interaction is part of thinking.md",
+            "file": "$Top of my mind.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interaction is part of thinking.md",
+                "file": "$Top of my mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "aaf67819ebf538f5",
   "lastOpenFiles": [
-    "Interaction is part of thinking.md",
-    "2021-0329-0656.md",
-    "\"Evaluate\", not \"validate\".md",
     "$Top of my mind.md",
-    "Action isn't a result of thinking. It's a medium for thinking..md",
     "Embodied cognition.md",
+    "\"Evaluate\", not \"validate\".md",
+    "Building products for companies (B2B) is very different from building for consumers (B2C).md",
+    "2021-0412-0827.md",
+    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md",
     "Reading notes/Anderson, Fast – Figure It Out.md",
-    "Placing objects in space reflects our understanding of a given concept.md",
-    "Product teams should prioritize opportunities, not solutions.md",
-    "Visual models are \"Objects Placed into Territories\".md"
+    "Reading notes/Untitled.md",
+    "Interaction is part of thinking.md",
+    "2021-0329-0656.md"
   ]
 }
