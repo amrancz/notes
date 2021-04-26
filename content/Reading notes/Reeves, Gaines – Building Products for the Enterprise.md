@@ -13,3 +13,10 @@ Reeves, Gaines (2018). Building Products for the Enterprise: Product Management 
 This book is about product management for enterprise SW. It's about B2B as opposed to B2C.
 
 - [[Building products for companies (B2B) is very different from building for consumers (B2C)]]
+- [[Types of knowledge that product managers need]]
+
+Successfuly PMs need several types of knowledge:
+- Organizational
+- Product
+- Industry
+(Compare this with Cagan who specifies business, customer, data and industry types of knowledge)
