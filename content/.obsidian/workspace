@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Types of knowledge that product managers need.md",
+            "file": "PMs need to effectively communicate with executives.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of knowledge that product managers need.md",
+                "file": "PMs need to effectively communicate with executives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "aaf67819ebf538f5",
   "lastOpenFiles": [
+    "PMs need to effectively communicate with executives.md",
+    "2021-0510-0741.md",
+    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md",
     "Types of knowledge that product managers need.md",
     "Reading notes/Cagan – Inspired.md",
     "2021-0426-0826.md",
     "Usage of common and familiar interaction or visual patterns is very important to make a UI understandable.md",
-    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md",
     "Building products for companies (B2B) is very different from building for consumers (B2C).md",
     "In product management, there's very little standardization.md",
-    "2021-0420-0825.md",
-    "2021-0413-0826.md",
-    "$Top of my mind.md"
+    "2021-0420-0825.md"
   ]
 }

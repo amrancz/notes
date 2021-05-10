@@ -20,3 +20,6 @@ Successfuly PMs need several types of knowledge:
 - Product
 - Industry
 (Compare this with Cagan who specifies business, customer, data and industry types of knowledge)
+
+- PMs need to balance customer knowledge with industry/market. They must not forget big-picture strategic initiatives. Focusing only on the customer isn't enough, PMs must keep an eye on where the market is going, too.
+- PMs need to effectively communicate with executives
