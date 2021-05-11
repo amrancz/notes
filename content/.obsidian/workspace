@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PMs need to effectively communicate with executives.md",
+            "file": "Understanding sales is important for PMs in enterprise.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PMs need to effectively communicate with executives.md",
+                "file": "Understanding sales is important for PMs in enterprise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "aaf67819ebf538f5",
   "lastOpenFiles": [
+    "Understanding sales is important for PMs in enterprise.md",
+    "Product teams should prioritize opportunities, not solutions.md",
+    "2021-0511-0700.md",
     "PMs need to effectively communicate with executives.md",
     "2021-0510-0741.md",
     "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md",
     "Types of knowledge that product managers need.md",
     "Reading notes/Cagan – Inspired.md",
     "2021-0426-0826.md",
-    "Usage of common and familiar interaction or visual patterns is very important to make a UI understandable.md",
-    "Building products for companies (B2B) is very different from building for consumers (B2C).md",
-    "In product management, there's very little standardization.md",
-    "2021-0420-0825.md"
+    "Usage of common and familiar interaction or visual patterns is very important to make a UI understandable.md"
   ]
 }
