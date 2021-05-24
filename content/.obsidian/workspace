@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Focusing illusion in product management.md",
+            "file": "Mental model diagrams.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Focusing illusion in product management.md",
+                "file": "Mental model diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "aaf67819ebf538f5",
   "lastOpenFiles": [
+    "Mental model diagrams.md",
+    "user research.md",
+    "Mental models in design.md",
+    "2021-0524-0726.md",
+    "Roadmaps are one of PMs most important outputs.md",
+    "2021-0520-0809.md",
+    "Focusing illusion in product management.md",
     "2021-0517-0817.md",
     "Understanding sales is important for PMs in enterprise.md",
-    "Product teams should prioritize opportunities, not solutions.md",
-    "2021-0511-0700.md",
-    "PMs need to effectively communicate with executives.md",
-    "2021-0510-0741.md",
-    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md",
-    "Types of knowledge that product managers need.md",
-    "Reading notes/Cagan – Inspired.md",
-    "2021-0426-0826.md"
+    "Product teams should prioritize opportunities, not solutions.md"
   ]
 }
