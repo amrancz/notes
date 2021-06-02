@@ -13,7 +13,7 @@ There are some rules of thumb to uncover the truth about a problem:
 
 ---
 
-Tags: [[user research]] [[jobs-to-be-done]]
+Tags: [[user research]] [[jobs-to-be-done]] [[customer interviews]]
 
 ID: 2021-0319-0939
 
