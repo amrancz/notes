@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting notes/Product vs. market risk.md",
+            "file": "Ill-structured vs. well-structured problems.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "research",
+                "query": "intuition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting notes/Product vs. market risk.md",
+                "file": "Ill-structured vs. well-structured problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "c1e9d1e0909782a2",
   "lastOpenFiles": [
-    "Fleeting notes/Untitled.md",
-    "2021-0602-0803.md",
-    "2021-0602-0755.md",
-    "Uncover the need behind a feature request.md",
-    "In customer interviews, talk about their life instead of your ideas.md",
-    "2021-0602-0730.md",
-    "People tend to speak about problems in terms of solutions.md",
-    "user research.md",
-    "\"Evaluate\", not \"validate\".md",
-    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md"
+    "Ill-structured vs. well-structured problems.md",
+    "2021-0605-1932.md",
+    "2021-0605-1931.md",
+    "\"Ill-structured\" vs. \"well-structured\" problems.md",
+    "2021-0605-1920.md",
+    "Reading notes/Untitled.md",
+    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md",
+    "Reading notes/Cagan – Inspired.md",
+    "Fleeting notes/Intuition is the result of accumulated experience.md",
+    "In customer interviews, talk about their life instead of your ideas.md"
   ]
 }
