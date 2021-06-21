@@ -12,7 +12,7 @@ Lower-level problems tend to be more well-structured. Herb Simon defined "well-s
 The larger the problem, the more ill-structured it tends to be.
 Design problems and problems related to innovation in business are pretty much always ill-structured.
 
-[[Humans have unique techniques to solve ill-structured problems]]
+[[Humans have unique techniques to solve ill-structured problems]].
 
 ---
 

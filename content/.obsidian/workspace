@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ill-structured vs. well-structured problems.md",
+            "file": "Design synthesis (TBD).md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ill-structured vs. well-structured problems.md",
+                "file": "Design synthesis (TBD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -87,15 +87,15 @@
   },
   "active": "c1e9d1e0909782a2",
   "lastOpenFiles": [
-    "Ill-structured vs. well-structured problems.md",
+    "Design synthesis (TBD).md",
+    "Reading notes/Kolko – Exposing the Magic of Design.md",
     "2021-0605-1932.md",
-    "2021-0605-1931.md",
-    "\"Ill-structured\" vs. \"well-structured\" problems.md",
-    "2021-0605-1920.md",
-    "Reading notes/Untitled.md",
-    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md",
-    "Reading notes/Cagan – Inspired.md",
-    "Fleeting notes/Intuition is the result of accumulated experience.md",
-    "In customer interviews, talk about their life instead of your ideas.md"
+    "Ill-structured vs. well-structured problems.md",
+    "Mental models in design.md",
+    "Humans have unique techniques to solve ill-structured problems.md",
+    "mental models.md",
+    "Mental model diagrams.md",
+    "understanding.md",
+    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md"
   ]
 }

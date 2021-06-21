@@ -8,6 +8,8 @@ It's really a **set of concepts we associate with something**: *e.g. seeing a gl
 
 Different people can have very different mental models about the same thing.
 
+Mentals models aren't usually an accurate representation. Accuracy isn't the goal, understanding is. (e.g. consider a mental model of a "lock")
+
 Because [[Thinking is mostly unconscious]], so are mental models. People are not necessarily aware of the models they hold about stuff. However, these models might be revealed via [[Placing objects in space reflects our understanding of a given concept]].
 
 In digital design, we usually leverage widespread mental models (often taking them even for granted) – e.g. the understanding how a text field works.
