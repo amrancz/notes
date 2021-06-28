@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design synthesis (TBD).md",
+            "file": "Design synthesis.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intuition",
+                "query": "attent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design synthesis (TBD).md",
+                "file": "Design synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,14 @@
   "active": "c1e9d1e0909782a2",
   "lastOpenFiles": [
     "Design synthesis (TBD).md",
+    "Relationship of design research, synthesis and innovation.md",
     "Reading notes/Kolko – Exposing the Magic of Design.md",
+    "2021-0628-0724.md",
+    "Embodied cognition.md",
+    "Preattentive visual property.md",
     "2021-0605-1932.md",
     "Ill-structured vs. well-structured problems.md",
     "Mental models in design.md",
-    "Humans have unique techniques to solve ill-structured problems.md",
-    "mental models.md",
-    "Mental model diagrams.md",
-    "understanding.md",
-    "Reading notes/Reeves, Gaines – Building Products for the Enterprise.md"
+    "Humans have unique techniques to solve ill-structured problems.md"
   ]
 }

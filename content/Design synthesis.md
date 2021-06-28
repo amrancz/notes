@@ -9,6 +9,8 @@ Synthesis should be made explicit, otherwise the designer risks that stakeholder
 Because synthesis is a deliberate effort to make sense of data, it leads to deep understanding of the problem [[Actively working with information enables learning]].
 **Collaborative synthesis can be a great way of building an understanding of a design problem in a team.**
 
+Synthesis is a process of abductive reasoning: creating the most likely hypotheses based on the available data, coming up with new insights, diverse insights.
+
 There are different methods of synthesis:
 - for making sense out of data: Affinity Diagrams, Mental model diagrams, Flow diagrams
 - for building an experience framework: Concept mapping, Ecosystem mapping, Customer Journey mapping

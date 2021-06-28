@@ -30,3 +30,12 @@ Kolko (2018). Exposing The Magic of Design: A Practitioner's Guide to the Method
 - Framing plays an important role in design because it provides a set of constraints. When designers approach a problem that's framed in a certain way (e.g. the frame of "Ease of use: The user should neve encounter confusing things or technical jargon "), it narrows down all possible choices to a set of appropriate choices.
 	- One design problem can have multiple different frames that each provide unique constraints. This doesn't need to be a burden, but rather a blessing as it further funnels down the choices to the most appropriate ones.
 **	- Frames should be made explicit so that everyone on the team understands where others are coming from and can refer to the frames in discussions.**
+
+- Kolko talks about "knowledge funnel" (first described by Roger Martin, 2009) – a process of thinking about ideas that goes from mystery, to heuristic, to algorithm to code. It's a divergent process at first (design synthesis happens when designers produce many diverse ideas to address the mystery, i.e. the problem + in the heuristic phase). Then process converges onto a single, universal idea that can make it into production ("the code").
+	- This is very similar to the tradition double-diamond process. Funnily enough, the double-diamon is from 2005 so it's perhaps Martin that was inspired by it?
+
+- On synthesis, research and innovation:
+	- Kolko talks about innovation as something that isn't just new but also succeeds on the market. In this sense, design and research alone cannot produce something innovative. Other parts other organisation like engineering and marketing must make it happen and succeed, if an idea should be actually innovative.
+	- What design research *can* do, is find the right problem to solve. It can point to an opportunity. However, a research with focus on human behavior is needed for that:
+		- "...design research that focuses on human behavior – not on a particular object or service – is the most useful at discovering data for innovation"
+	- So research is problem finding. Synthesis, then, is problem *understanding*. It can describe a solution in terms of characteristics but fundamentally acts as a link between research (generating data) and design (producing something tangible).
