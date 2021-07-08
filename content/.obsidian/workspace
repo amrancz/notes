@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Product designer's and product manager's work overlaps.md",
+            "file": "Concept mapping (method).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product designer's and product manager's work overlaps.md",
+                "file": "Concept mapping (method).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c1e9d1e0909782a2",
   "lastOpenFiles": [
-    "Product designer's and product manager's work overlaps.md",
-    "product management.md",
-    "2021-0702-0859.md",
-    "$Areas of interest.md",
-    "$Top of my mind.md",
-    "Design synthesis (TBD).md",
+    "2021-0708-0936.md",
     "Relationship of design research, synthesis and innovation.md",
-    "Reading notes/Kolko – Exposing the Magic of Design.md",
-    "2021-0628-0724.md",
-    "Embodied cognition.md"
+    "Validate designs in proportion to usability risk.md",
+    "Zeigarnik effect.md",
+    "Believing that willpower is abundant leads to having more of it.md",
+    "Gestalt principles explain how people visually perceive relationships between objects.md",
+    "Confirmation bias.md",
+    "Time to money – it typically takes several iterations to develop a product idea enough to deliver the necessary business value.md",
+    "$Areas of interest.md",
+    "Internal distractions are caused by the desire to escape discomfort.md"
   ]
 }
