@@ -13,7 +13,9 @@ Synthesis is a process of abductive reasoning: creating the most likely hypothes
 
 There are different methods of synthesis:
 - for making sense out of data: Affinity Diagrams, Mental model diagrams, Flow diagrams
-- for building an experience framework: Concept mapping, Ecosystem mapping, Customer Journey mapping
+- for building an experience framework: [[Concept mapping (method)]], Ecosystem mapping, Customer Journey mapping
+
+These methods can be used throughout the whole process of synthesis (e.g. [[Framework for design synthesis]])
 
 ---
 

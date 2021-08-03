@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playfulness is an important part of design synthesis.md",
+            "file": "Design synthesis.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attent",
+                "query": "outcome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playfulness is an important part of design synthesis.md",
+                "file": "Design synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c1e9d1e0909782a2",
   "lastOpenFiles": [
+    "Design synthesis.md",
+    "Framework for design synthesis.md",
+    "Mental model diagrams.md",
+    "2021-0803-0735.md",
     "Playfulness is an important part of design synthesis.md",
-    "Relationship of design research, synthesis and innovation.md",
-    "2021-0709-0856.md",
-    "Concept mapping (method).md",
-    "2021-0708-0936.md",
-    "Validate designs in proportion to usability risk.md",
-    "Zeigarnik effect.md",
-    "Believing that willpower is abundant leads to having more of it.md",
-    "Gestalt principles explain how people visually perceive relationships between objects.md",
-    "Confirmation bias.md"
+    "Associations between concepts is thinking.md",
+    "Reading notes/Anderson, Fast – Figure It Out.md",
+    "Outcomes over outputs.md",
+    "Product designer's and product manager's work overlaps.md",
+    "Building the right thing is a foundation of good design.md"
   ]
 }

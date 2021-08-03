@@ -1,5 +1,5 @@
 ---
-title: Mental model diagrams
+title: Mental model diagrams (method)
 ---
 
 Mental model diagrams are a way of visualising the internal representations people have about things (how they think and feel about something). The diagram is constructed based on qualitative user research.
