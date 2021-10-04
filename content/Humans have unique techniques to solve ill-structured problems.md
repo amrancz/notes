@@ -8,7 +8,7 @@ Humans have unique techniques to solve ill-structured problems. (see [[Ill-struc
 - Acting on an informed hunch (making very quick decisions)
 - Making a judgement
 - Using incomplete information
-- Breaking out of constracints (when making no progress)
+- Breaking out of constraints (when making no progress)
 
 These are very hard/impossible for a computer to do. They are uniquely human.
 

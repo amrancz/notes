@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e9d1e0909782a2",
+        "id": "c1632294408a4085",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design synthesis.md",
+            "file": "Curse of knowledge.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "outcome",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design synthesis.md",
+                "file": "Curse of knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1e9d1e0909782a2",
+  "active": "c1632294408a4085",
   "lastOpenFiles": [
-    "Design synthesis.md",
-    "Framework for design synthesis.md",
-    "Mental model diagrams.md",
-    "2021-0803-0735.md",
-    "Playfulness is an important part of design synthesis.md",
-    "Associations between concepts is thinking.md",
-    "Reading notes/Anderson, Fast – Figure It Out.md",
-    "Outcomes over outputs.md",
-    "Product designer's and product manager's work overlaps.md",
-    "Building the right thing is a foundation of good design.md"
+    "Curse of knowledge.md",
+    "Getting good feedback is designer's responsibility.md",
+    "2021-1004-0817.md",
+    "2021-1004-0815.md",
+    "Fleeting notes/Getting good feedback is designer's responsibility.md",
+    "Humans have unique techniques to solve ill-structured problems.md",
+    "Fleeting notes/Untitled.md",
+    "Reading notes/Kolko – Exposing the Magic of Design.md",
+    "Relationship of design research, synthesis and innovation.md",
+    "Playfulness is an important part of design synthesis.md"
   ]
 }
