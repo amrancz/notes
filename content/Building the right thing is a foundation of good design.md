@@ -12,4 +12,6 @@ But it's the functional dimension that's most important. That's what I mean by "
 
 If a feature doesn't meet the user need, nothing else about its design can make up for it. That's why building the right thing is a foundation of good design.
 
+In this way, good product management is actually necessary for good product design.
+
 Tags: [[product design]] [[product management]]

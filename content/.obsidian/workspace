@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Curse of knowledge.md",
+            "file": "$Top of my mind.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of knowledge.md",
+                "file": "$Top of my mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c1632294408a4085",
   "lastOpenFiles": [
+    "$Top of my mind.md",
+    "Building the right thing is a foundation of good design.md",
     "Curse of knowledge.md",
+    "Design synthesis.md",
     "Getting good feedback is designer's responsibility.md",
-    "2021-1004-0817.md",
-    "2021-1004-0815.md",
-    "Fleeting notes/Getting good feedback is designer's responsibility.md",
-    "Humans have unique techniques to solve ill-structured problems.md",
-    "Fleeting notes/Untitled.md",
+    "Untitled.md",
+    "Reading notes/Evans – Bottlenecks - Aligning UX design with user psychology.md",
     "Reading notes/Kolko – Exposing the Magic of Design.md",
-    "Relationship of design research, synthesis and innovation.md",
-    "Playfulness is an important part of design synthesis.md"
+    "Reading notes/Untitled.md",
+    "2021-1004-0817.md"
   ]
 }
