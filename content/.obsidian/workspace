@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "$Top of my mind.md",
+            "file": "Distribute knowledge from customer interviews.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "$Top of my mind.md",
+                "file": "Distribute knowledge from customer interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c1632294408a4085",
   "lastOpenFiles": [
+    "Distribute knowledge from customer interviews.md",
+    "user research.md",
+    "Reading notes/Fitzpatrick – The Mom Test.md",
+    "Curse of knowledge.md",
     "$Top of my mind.md",
     "Building the right thing is a foundation of good design.md",
-    "Curse of knowledge.md",
     "Design synthesis.md",
     "Getting good feedback is designer's responsibility.md",
     "Untitled.md",
-    "Reading notes/Evans – Bottlenecks - Aligning UX design with user psychology.md",
-    "Reading notes/Kolko – Exposing the Magic of Design.md",
-    "Reading notes/Untitled.md",
-    "2021-1004-0817.md"
+    "Reading notes/Evans – Bottlenecks - Aligning UX design with user psychology.md"
   ]
 }
