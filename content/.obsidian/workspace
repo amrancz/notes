@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Distribute knowledge from customer interviews.md",
+            "file": "Working memory.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribute knowledge from customer interviews.md",
+                "file": "Working memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "c1632294408a4085",
   "lastOpenFiles": [
+    "Working memory.md",
+    "People actively detect signal from noise.md",
+    "Reading notes/Evans – Bottlenecks.md",
+    "Framework for design synthesis.md",
+    "Reading notes/Productboard – Product management 101 (Intro, definition, resposibilities).md",
     "Distribute knowledge from customer interviews.md",
     "user research.md",
     "Reading notes/Fitzpatrick – The Mom Test.md",
     "Curse of knowledge.md",
-    "$Top of my mind.md",
-    "Building the right thing is a foundation of good design.md",
-    "Design synthesis.md",
-    "Getting good feedback is designer's responsibility.md",
-    "Untitled.md",
-    "Reading notes/Evans – Bottlenecks - Aligning UX design with user psychology.md"
+    "$Top of my mind.md"
   ]
 }
