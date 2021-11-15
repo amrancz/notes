@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Working memory.md",
+            "file": "Reading notes/Evans – Bottlenecks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working memory.md",
+                "file": "Reading notes/Evans – Bottlenecks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "c1632294408a4085",
   "lastOpenFiles": [
-    "Working memory.md",
-    "People actively detect signal from noise.md",
     "Reading notes/Evans – Bottlenecks.md",
+    "2021-1115-0720.md",
+    "People actively detect signal from noise.md",
+    "Working memory is subject to quick decay and displacement.md",
+    "Multitasking is often just monotasking with rapid switching.md",
     "Framework for design synthesis.md",
     "Reading notes/Productboard – Product management 101 (Intro, definition, resposibilities).md",
     "Distribute knowledge from customer interviews.md",
     "user research.md",
-    "Reading notes/Fitzpatrick – The Mom Test.md",
-    "Curse of knowledge.md",
-    "$Top of my mind.md"
+    "Reading notes/Fitzpatrick – The Mom Test.md"
   ]
 }

@@ -23,6 +23,17 @@ Evants (2017). Bottlenecks: Aligning UX design with user psychology
 	- That's when in the beginning, a lot of different ideas and products may be created, but then, most of them die and only a few remain.
 - "The memes that are optimized for receptivity will go on to dominate, while those that are misaligned with human nature will be selected against and ultimately go extinct..."
 
+### Part 1 – Attention
+- People direct attention differently if they have a goal vs. if they don't: with a goal, attention is very selective to what is (perceived as) useful to that goal and everything else is ignored. Without a goal, attention can be broader but with lower subsequential engagement.
+	- Designers should establish if the user has a goal in the first place. They may not have one! It could be a mistake of designers' always assuming that people have a certain goal. They might have a need they're trying to satisfy but that doesn't necessarily mean they have a specific goal in their mind.
+	- Brain has two networks:
+		- Task-positive: when we intensely focus on a task at hand (e.g. writing a report or navigating in a new city). This network is mostly dominant.
+			- i.e. has a goal
+		- Task-negative: "mind-wandering mode". We default to this network when we have "nothing to do" (no task/goal).
+			- i.e. doesn't have a goal
+	- People might use different navigational patterns on websites when they're task-positive (search) or task-negative (links)
+	- When people are task-positive they focus their attention where they consciously chosoe to and actively avoid everything else (which is an unwanted distraction). When people are task-negative, they welcome distractions.
+
 
 ### Part 3 – Memory
 There are three types of memory:
