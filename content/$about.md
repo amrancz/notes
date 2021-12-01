@@ -5,9 +5,9 @@ title: My Digital Garden
 Hi, I'm Adam Amran 👋
 
 This is my digital garden – a place for my notes and thoughts.
+I'm building and cultivating this place step by step. Feel free to explore.
 
-I'm just starting out building this place so there's not much yet. 
-There's no fixed structure either, the system is associative.
+There's no fixed structure, the system is associative. Just like our brains!
 
 Best places to start exploring is:
 - what's on [[$Top of my mind]]

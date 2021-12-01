@@ -3,6 +3,7 @@ title: Top of my mind
 ---
 
 Here are things that are on top of my mind:
+- [[Language-market fit]]
 - [[Design synthesis]]
 - [[Curse of knowledge]]
 - [[Building the right thing is a foundation of good design]]

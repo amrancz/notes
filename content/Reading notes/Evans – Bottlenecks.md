@@ -70,4 +70,26 @@ There are three types of memory:
 	- We can perform two automatic processes at once, or one automatic process and one effortful process at once, but not two effortful processes at once.
 
 
-#### Signal detection
+#### Long term memory
+People have a very good long-term memory. Once an information passes the previous bottelnecks of attention and working memory, and is encoded to long-term memory, it stays there for a very long time.
+
+And even when people cannot actively recall something they've seen or heard, they'll be able to recognize quickly.
+
+Seeing or recognizing a stimulus elicits a response (e.g. seeing a picture of a classmate brings up a nostalgic emotion). However, there's such a concept of extinction of that response.
+
+Encountering something for the first time elicits the biggest reponse. Each subsequent encounter elicits a smaller one. It diminishes.
+
+This then means that people need novel experiences to stay engaged. I.e. people won't experience the same engagement when re-watching a movie (and much less when re-watching for the 3rd time).
+
+#### Encoding and retrieval
+Retrieving information is essentialy "re-igniting the neural pathways that were active at the moment of the original experience."
+Because of that, memories aren't 100% accurate. Retrieving something is an *attempt* to *reconstruct* the original experience or information.
+
+Long-term memory works on the basis of neural networks. And when we encode something in our long-term memory, it's encoded with other stuff that was there at the time – i.e. the environment, the context.
+We're then better able to retrieve things when other elements from the original experience are present – e.g. we're in the same environment.
+
+This means that it's most effective to learn things in the context where we want to use it (retrieve it) later. Think scuba divers learning underwater vs. on dry land.
+
+Recent research has also shown that people spend less energy on encoding new information when they believe they can use a search engine to find it later ("Google effect").
+
+However, it's likely that the ability to remember thigns well instead of relying on looking them up is going to be appreciated as a sign of personal intelligence.

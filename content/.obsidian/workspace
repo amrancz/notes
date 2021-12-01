@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading notes/Evans – Bottlenecks.md",
+            "file": "$Areas of interest.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "about",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/Evans – Bottlenecks.md",
+                "file": "$Areas of interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c1632294408a4085",
   "lastOpenFiles": [
+    "$Areas of interest.md",
+    "$about.md",
+    "$Top of my mind.md",
+    "Language-market fit.md",
+    "Information is retrieved from memory by reactivating the neural pathways of the original experience.md",
+    "Actively working with information enables learning.md",
     "Reading notes/Evans – Bottlenecks.md",
-    "2021-1115-0720.md",
-    "People actively detect signal from noise.md",
-    "Working memory is subject to quick decay and displacement.md",
-    "Multitasking is often just monotasking with rapid switching.md",
-    "Framework for design synthesis.md",
-    "Reading notes/Productboard – Product management 101 (Intro, definition, resposibilities).md",
-    "Distribute knowledge from customer interviews.md",
-    "user research.md",
-    "Reading notes/Fitzpatrick – The Mom Test.md"
+    "Goal-directed vs. stimulus-driven attention.md",
+    "jobs-to-be-done.md",
+    "Information encoded in long-term memory are remembered for a very long time.md"
   ]
 }
