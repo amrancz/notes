@@ -18,3 +18,8 @@ Marty Cagan puts it nicely:
 ---
 
 Tags: [[product management]] [[product design]]
+
+Sources:
+– [[Cagan – Inspired]]
+– [[Torres – Continuous Discovery Habits]]
+– 
