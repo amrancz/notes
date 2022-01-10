@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ill-str",
+                "query": "jobs-to",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,14 +90,14 @@
   "active": "c1632294408a4085",
   "lastOpenFiles": [
     "Reading notes/Torres – Continuous Discovery Habits.md",
-    "Fleeting notes/Intuition is the result of accumulated experience.md",
-    "Fleeting notes/Dealing with uncertainty in design process.md",
-    "Ill-structured vs. well-structured problems.md",
-    "Outcomes over outputs.md",
-    "Reading notes/Cagan – Inspired.md",
-    "Reading notes/Productboard – Product management 101 (Intro, definition, resposibilities).md",
-    "Reading notes/Evans – Bottlenecks.md",
-    "$Areas of interest.md",
-    "$about.md"
+    "Reading notes/Müller, Rausch – Menus Metaphors and Materials.md",
+    "Research questions are not interview questions.md",
+    "Fleeting notes/Confidence isn't a good indicator of truth or reality but we often mistake it for it.md",
+    "In customer interviews, ask about specific past behaviors.md",
+    "Reading notes/Fitzpatrick – The Mom Test.md",
+    "Jobs-to-be-done (JTBD).md",
+    "In customer interviews, talk about their life instead of your ideas.md",
+    "jobs-to-be-done.md",
+    "Reading notes/Christensen – Competing Against Luck.md"
   ]
 }

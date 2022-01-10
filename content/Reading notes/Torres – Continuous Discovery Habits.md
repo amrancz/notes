@@ -21,7 +21,7 @@ Co-creating with customers early on > Validating your assumptions at the end of 
 
 "Create value for customers in a way that creates value for the business"
 
-### Part 1: Common framework for discovery (aka Theory intro to Opportunity solution trees)
+## Part 1: Common framework for discovery (aka Theory intro to Opportunity solution trees)
 
 - Outcomes > Outputs
 - Teams should focus on outcomes. Businesses should task teams with outcomes, not outputs.
@@ -40,7 +40,7 @@ Co-creating with customers early on > Validating your assumptions at the end of 
 - OSTs should evolve continuously as teams progress with discovering opportunities, finding solutions and testing them. Best teams also work bottom-up to reflect how the tests and more interviews change the higher parts of the tree.
 
 
-### Part 2: Continuous Discovery Habits
+## Part 2: Continuous Discovery Habits
 
 11 habits for continuous discovery:
 
@@ -58,3 +58,29 @@ Co-creating with customers early on > Validating your assumptions at the end of 
 			- Jumping from outcome to outcome, quarter to quarter. Teams need longer time (multiple quarters) to be able to deliver on an outcome. Jumping between outcomes is a sign of fire-fighting culture.
 			- Pursuing too many outcomes at ones. Teams need focus.
 			- Focusing on one outcome at the cost of everything else.
+
+### Discovering opportunities
+
+- Map what you know (experience map)
+	- Set a scope. Your outcome will inform the scope. Try to frame the outcome as a question (e.g. outcome is "increase sign-ups" -> "What's preventing potential customers from signing up?")
+		- Optimization outcomes might need narrower scopes, open-ended ones broader scope.
+	- Map what each member of product trio knows individually first, only then come together.
+	- Make it visual, not verbal -> makes for a better shared understanding
+		- Verbal description can lead to illusion of understanding. Visual descriptions are much less prone to it.
+		- Don't mistake this for a concept map of how your product works. Draw the actual experience.
+	- Share individual maps in the trio. Ask questions, clarify. No one's perspective is the right one here.
+	- Co-create a shared experience map.
+	- Take the map for what it is: set of assumptions, not the truth.
+- Talk to customers to uncover opportunities (capture with interview snapshot)
+- Document opportunities with OST
+- Use the tree structure to prioritize the opportunity space
+
+#### Customer interviews
+- The purpose of talking to customers is not to ask them what you should build (or what they want). The purpose is to discover opportunities (needs, pains, desires).
+	- In Christensen's lingo, it would be the job-to-be-done – the progress that customers want to make.
+- We must ask about past behaviors, otherwise we may not get an accurate answer. When people don't know, they often default to generalized or rationalized stories.
+- When you ask people directly ("how do you do X?"), you can't know if they tell you about their ideal behavior or their actual behavior.
+- Building products based on asking customers what they want is "like opening a salad bar across a McDonald's because customers said they wanted to eat healthier"
+- Direct questions lead to idealized, generalized answers. And not to a good understanding of the reality.
+- Direct questions tend to come from research questions. People often take a research question and just ask it in interviews. Doesn't work.
+	- You want to create separate "interview questions" (i.e. what you ask) that will lead to answering "research questions" (i.e. what you want to learn)
