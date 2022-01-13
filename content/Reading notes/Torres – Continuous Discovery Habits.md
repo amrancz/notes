@@ -84,3 +84,8 @@ Co-creating with customers early on > Validating your assumptions at the end of 
 - Direct questions lead to idealized, generalized answers. And not to a good understanding of the reality.
 - Direct questions tend to come from research questions. People often take a research question and just ask it in interviews. Doesn't work.
 	- You want to create separate "interview questions" (i.e. what you ask) that will lead to answering "research questions" (i.e. what you want to learn)
+
+- Synthesize notes after each interview.
+	- Torres offers "interview snapshot" framework
+- Interview continuously
+- Product trios should interview together
