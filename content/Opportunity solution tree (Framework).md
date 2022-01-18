@@ -20,6 +20,7 @@ OSTs should be refined over time as product teams continuously interview.
 
 Since [[Product teams should prioritize opportunities, not solutions]], this framework lends itself well to them.
 
+
 ---
 
 Tags: 

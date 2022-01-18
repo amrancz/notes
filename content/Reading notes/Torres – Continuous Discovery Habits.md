@@ -89,3 +89,45 @@ Co-creating with customers early on > Validating your assumptions at the end of 
 	- Torres offers "interview snapshot" framework
 - Interview continuously
 - Product trios should interview together
+
+#### Opportunity solution tree
+[[Opportunity solution tree (Framework)]]
+
+### Prioritization
+- Prioritize opportunities, not solutions and features.
+- Focus on one opportunity at a time -> deliver value iteratively often over time, not seldom and all at once
+- When prioritizing opportunities, consider:
+	- opportunity size (how many customers and how often it affects?)
+	- market factors ("is this opp. table-stakes or a differentiator?")
+	- company factors 
+	- customer factors
+- Don't turn this into a science, embrace the messiness of this process.
+	- Ill-structured problems can't be turned into a well-structured by using a math formula on them.
+	- There won't be a clear winner. There isn't one right answer what to prioritize.
+
+- Distinguish Level 1 decisions (hard to reverse) and Level 2 decisions (easy to reverse)
+	- On Level 1, be slow and cautious with making decisions ("one-way door")
+	- On Level 2, more fast, don't wait for perfect data. ("two-way door")
+		- Torres' quote about acting first, is better suited for Level 2:
+			- *"We'll learn more by making the decision and then seeing the consequences of having made that decision than we will from trying to think our way to the perfect decision."*
+- Discovery is mostly about two-way door decisions. Exploring an opportunity and soltuions is reversible if you learn it's not working.
+- Research (by Lottie Bullens et al., University of Amswerdam) found that when people view decisions as reversible, they think about them more critically even after the decision is made. They notice the negatives + consider positives of alternatives. They're open to being wrong. When people view decisions as irreversible, they tend to focus on its positives and on the negatives of the alternatives – we try to confirm to ourselves we made the right decision.
+
+### Generating solution ideas
+
+1. Review your target opportunity
+2. Generate ideas alone
+	1. Bring a diverse group. The whole team. Maybe some key stakeholders.
+3. Share your ideas
+4. Repeat 2. and 3.
+	1. Don't limit yourself to just one ideation session.
+5. Evaluate ideas (which would best address the opportunity?)
+	1. Dot vote to find the best ones
+
+- Torrest argues for testing assumptions, not ideas. 
+- Types of assumptions:
+	- desirability: will people want this? will they find value in it?
+	- viability: is this viable for our business? can we support this solution? will it help our business?
+	- feasibility: can we build this? how complex is it?
+	- usability: can people use it?
+	- ethical: is there any harm in building this?
