@@ -10,6 +10,8 @@ In context of design, it's vital to generate many solution ideas. If we have jus
 
 Together with [[Confirmation bias]], this is what often leads teams to build the wrong solutions.
 
+Note: What's the difference between this and Sunk-cost fallacy? Different names for the same thing?
+
 ---
 
 Tags: [[design process]]

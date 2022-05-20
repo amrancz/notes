@@ -124,10 +124,33 @@ Co-creating with customers early on > Validating your assumptions at the end of 
 5. Evaluate ideas (which would best address the opportunity?)
 	1. Dot vote to find the best ones
 
-- Torrest argues for testing assumptions, not ideas. 
+- Torrest argues for testing assumptions, not ideas.
+	- It's almost identical to Cagan's [[Four product risks]]
 - Types of assumptions:
-	- desirability: will people want this? will they find value in it?
+	- desirability ('value' in Cagan's lingo): will people want this? will they find value in it?
 	- viability: is this viable for our business? can we support this solution? will it help our business?
 	- feasibility: can we build this? how complex is it?
 	- usability: can people use it?
 	- ethical: is there any harm in building this?
+
+Three ways to uncover assumptions:
+1) Story mapping
+	- To make ideas clearer, Torres suggest to story map – draw out steps how end-users will get the value out of a proposed solution idea.
+	- Then for each step, see what assumptions (i.e. risks) there are. There will probably be some of each type.
+2) Pre-mortem
+	- Another way to uncover assumptions is to do a pre-mortem. Especially useful for bigger initiatives.
+	- Key factor: phrase the "failure question" as if it was certain. "It's 6 months from now. The initiative **was** a complete failure. Why?"
+3) Walk through the opportunity tree
+	- Answer "why" a certain solution would solve the target opportunity. Be very specific. Go up the ladder of abstraction. Ask multiple whys.
+
+- It's important to identify the riskiest assumptions and test those. That narrows how many assumptions you'll test. You don't want to test all of them – you'll probably be able to say about most if they're true based on existing data from the discovery so far.
+- Trips for writing assumptions:
+	- Phrase assumptions as if they were true, not in a negative way.
+	- Be specific. Avoid "Customers will know how to use this" or "We'll be able to build this."
+- How to prioritize assumptions? Assumption mapping (by David J. Bland)
+	- Map each assumption in 2x2 matrix along 2 axes:
+		- Evidence: strong vs. weak 
+		- how sure are were this is true? the less sure (less evidence) the more we need to test it)
+		- Importance: more vs less
+	- Review already placed assumptions relative to each other
+	- Top right quadrant contains assumptions you should likely test (not necessarily all of them, though)
