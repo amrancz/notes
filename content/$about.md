@@ -10,7 +10,7 @@ I'm building and cultivating this place step by step. Feel free to explore.
 There's no fixed structure, the system is associative. Just like our brains!
 
 Best places to start exploring is:
-- what's on [[$Top of my mind]]
+- what's on [[$Recent thoughts and reads]]
 - my [[$Areas of interest]]
 
 ---

@@ -1,8 +1,12 @@
 ---
-title: Top of my mind
+title: Recent thoughts and reads
 ---
 
-Here are things that are on top of my mind:
+Books I've been reading or recently finished:
+- [[Torres – Continuous Discovery Habits]]
+- [[Metts, Welfle – Writing Is Designing]]
+
+Here's what's been interesting to me laterly:
 - [[Language-market fit]]
 - [[Design synthesis]]
 - [[Curse of knowledge]]
