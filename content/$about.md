@@ -10,8 +10,9 @@ I'm building and cultivating this place step by step. Feel free to explore.
 There's no fixed structure, the system is associative. Just like our brains!
 
 Best places to start exploring is:
-- [[$Recent thoughts and reads]]
+- [[$Recent thoughts and notes]]
 - [[$Areas of interest]]
+- [[$Book notes]]
 
 ---
 

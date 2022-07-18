@@ -1,10 +1,6 @@
 ---
-title: Recent thoughts and reads
+title: Recent thoughts and notes
 ---
-
-Books I've been reading or recently finished:
-- [[Torres – Continuous Discovery Habits]]
-- [[Metts, Welfle – Writing Is Designing]]
 
 Here's what's been interesting to me laterly:
 - [[Language-market fit]]

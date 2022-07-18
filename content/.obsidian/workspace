@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cagan – Inspired.md",
+            "file": "$Book notes.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cagan – Inspired.md",
+                "file": "$Book notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "c1632294408a4085",
   "lastOpenFiles": [
-    "Cagan – Inspired.md",
-    "templates/perm-template.md",
-    "Metts, Welfle – Writing Is Designing.md",
-    "$about.md",
-    "$Recent thoughts and reads.md",
-    "Torres – Continuous Discovery Habits.md",
-    "Framework for writing error messages (AER).md",
-    "User needs have functional and emotional dimensions.md",
-    "Escalation of commitment.md",
-    "Individuals generating ideas alone outperform brainstorming groups.md"
+    "$Book notes.md",
+    "Kolko – Exposing the Magic of Design.md",
+    "Fitzpatrick – The Mom Test.md",
+    "Evans – Bottlenecks.md",
+    "Eyal – Indistractable.md",
+    "Reeves, Gaines – Building Products for the Enterprise.md",
+    "Building products for companies (B2B) is very different from building for consumers (B2C).md",
+    "Types of knowledge that product managers need.md",
+    "$Recent thoughts and notes.md",
+    "$about.md"
   ]
 }
