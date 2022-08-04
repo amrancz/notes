@@ -2,7 +2,8 @@
 title: Recent thoughts and notes
 ---
 
-Here's what's been interesting to me laterly:
+Here's what's been interesting to me lately:
+- [[Empowered teams]]
 - [[Language-market fit]]
 - [[Design synthesis]]
 - [[Curse of knowledge]]

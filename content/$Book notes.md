@@ -13,3 +13,4 @@ Reading notes from (in no particular order):
 - [[Fitzpatrick – The Mom Test]]
 - [[Reeves, Gaines – Building Products for the Enterprise]]
 - [[Kolko – Exposing the Magic of Design]]
+- [[Metts, Welfle – Writing Is Designing]]
