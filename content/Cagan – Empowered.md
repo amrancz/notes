@@ -30,4 +30,6 @@ Type: #book
 	- How it views the purpose of product teams:
 		- Delivering products that customers love yet work for the business. Not just "serving the business".
 
+[[Responsibilities of product leadership in strong product companies]]
+
 [[Feature teams]]
