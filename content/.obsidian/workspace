@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2cdac6f2b0c4a9b0",
+        "id": "3293d7666493212d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Differences between strong and weak product companies.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e62cd7a7f8d890f5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Responsibilities of product leadership in strong product companies.md",
+            "file": "Prototype theory in product design.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differences between strong and weak product companies.md",
+                "file": "Prototype theory in product design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2cdac6f2b0c4a9b0",
+  "active": "3293d7666493212d",
   "lastOpenFiles": [
-    "Responsibilities of product leadership in strong product companies.md",
+    "Prototype theory.md",
+    "Prototype theory in product design.md",
+    "Fleeting notes/UX Writing and research.md",
+    "Stories are a powerful way of creating understanding.md",
+    "User-centered design.md",
+    "Design for emergence illustration 20220817060555.png",
+    "Design for emergence.md",
     "Differences between strong and weak product companies.md",
-    "Cagan – Empowered.md",
-    "Empowered teams.md",
-    "Product vision describes the aspirational future state of a product.md",
-    "$Recent thoughts and notes.md",
-    "Fleeting notes/How can we close the gap between feature and empowered teams?.md",
-    "Feature teams.md",
-    "Product leadership should give empowered teams a solid product strategy.md",
-    "Cagan – Inspired.md"
+    "Responsibilities of product leadership in strong product companies.md",
+    "Cagan – Empowered.md"
   ]
 }
