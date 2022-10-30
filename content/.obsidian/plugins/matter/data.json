@@ -1,12 +1,14 @@
 {
-  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjYyOTkzNTE4LCJqdGkiOiJjM2ViNzVhMDkyM2E0ZTMyYTg1MDYwNmNkY2YwODNjNSIsInVzZXJfaWQiOjU5ODQ5LCJjbGllbnRfdHlwZSI6ImludGVncmF0aW9uIiwibG9naW5fc2Vzc2lvbl9pZCI6IjgwZGFkOWFlLTdhM2YtNGQzNC1iNjJkLTkwYTYyOTlkOGUxZiJ9.7MZS7D9flEwmNzvm4XdFeatcjoChzeaV7DWdb9KTXq8",
-  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MDA3ODMxOCwianRpIjoiYjNmYTcyY2NjNzZlNDE2OThmMDhiMzExNDA3ZTdmMTMiLCJ1c2VyX2lkIjo1OTg0OSwiY2xpZW50X3R5cGUiOiJpbnRlZ3JhdGlvbiIsImxvZ2luX3Nlc3Npb25faWQiOiI4MGRhZDlhZS03YTNmLTRkMzQtYjYyZC05MGE2Mjk5ZDhlMWYifQ.ViNYlsF7N1XTWoWInjb-IGUto_nja4pr0wGFBtvKL_0",
+  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY3NDMwNTgzLCJqdGkiOiIyNmFmM2IxMjlhMDc0YjA5OGZhNDg0NGRkMzRhMjRmYyIsInVzZXJfaWQiOjU5ODQ5LCJjbGllbnRfdHlwZSI6ImludGVncmF0aW9uIiwibG9naW5fc2Vzc2lvbl9pZCI6IjgwZGFkOWFlLTdhM2YtNGQzNC1iNjJkLTkwYTYyOTlkOGUxZiJ9.lBQ59IP8mF4CDLRHWkKUbONS3dMW-ZJ0RykQ-sZUKps",
+  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3NDUxNTM4MywianRpIjoiZjZlYTc1MzkwYTcyNDc2MWE0ZDAyZTk2MmJiMDA1ZjIiLCJ1c2VyX2lkIjo1OTg0OSwiY2xpZW50X3R5cGUiOiJpbnRlZ3JhdGlvbiIsImxvZ2luX3Nlc3Npb25faWQiOiI4MGRhZDlhZS03YTNmLTRkMzQtYjYyZC05MGE2Mjk5ZDhlMWYifQ.zqYoAspOS9FS0oRWBCHHeAjLJBUC6o7t8V13A8kANtE",
   "qrSessionToken": "1d8626ade7d20ac22795a96e16507d89a7fb0fc5c3a23f8986bd8a80f11bdc98",
   "dataDir": "Matter",
   "syncInterval": 60,
   "hasCompletedInitialSetup": true,
-  "lastSync": "2022-09-05T08:22:22.323Z",
+  "lastSync": "2022-10-30T17:53:41.566Z",
   "isSyncing": false,
-  "contentMap": {},
+  "contentMap": {
+    "The Death of Intellectual Curiosity.md": "4_729695"
+  },
   "recreateIfMissing": true
 }
